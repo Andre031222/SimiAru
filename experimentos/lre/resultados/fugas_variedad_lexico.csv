@@ -1,0 +1,59 @@
+corpus,lengua,variedad,fuente_id,subconjunto,entradas,con_rasgo_collao,eyectiva,aspirada,progresivo_sha,iso_sin_variedad
+antes,aimara,(sin etiqueta),panlex,todas,9707,3413,2033,1380,0,0
+antes,aimara,(sin etiqueta),panlex,aptas,1022,320,176,144,0,0
+antes,aimara,(sin etiqueta),wikcionario_es,todas,646,198,122,76,0,0
+antes,aimara,(sin etiqueta),wikcionario_es,aptas,565,190,118,72,0,0
+antes,aimara,(sin etiqueta),wikidata_lexemas,todas,5,1,1,0,0,0
+antes,aimara,(sin etiqueta),wikidata_lexemas,aptas,4,0,0,0,0,0
+antes,quechua,chanka,minedu_americasnlp,todas,4392,132,19,113,0,0
+antes,quechua,chanka,minedu_americasnlp,aptas,4200,132,19,113,0,0
+antes,quechua,chanka,panlex,todas,19408,23,15,7,1,0
+antes,quechua,chanka,panlex,aptas,1320,6,5,1,0,0
+antes,quechua,chanka,wikcionario_es,todas,12,1,1,0,0,0
+antes,quechua,chanka,wikcionario_es,aptas,10,1,1,0,0,0
+antes,quechua,comun,panlex,todas,2547,23,13,8,2,2547
+antes,quechua,comun,panlex,aptas,27,3,3,0,0,27
+antes,quechua,qullaw,panlex,todas,18613,9816,6637,3172,7,0
+antes,quechua,qullaw,panlex,aptas,2218,1149,782,367,0,0
+antes,quechua,qullaw,wikcionario_es,todas,1245,350,240,110,0,30
+antes,quechua,qullaw,wikcionario_es,aptas,943,316,220,96,0,22
+antes,quechua,qullaw,wikidata_lexemas,todas,1690,695,455,240,0,1690
+antes,quechua,qullaw,wikidata_lexemas,aptas,1361,587,380,207,0,1361
+despues,aimara,comun,ids,todas,809,301,187,114,0,0
+despues,aimara,comun,ids,aptas,804,301,187,114,0,0
+despues,aimara,comun,wikcionario_en,todas,120,30,13,17,0,0
+despues,aimara,comun,wikcionario_en,aptas,114,30,13,17,0,0
+despues,aimara,comun,wikcionario_es,todas,620,193,120,73,0,0
+despues,aimara,comun,wikcionario_es,aptas,549,186,116,70,0,0
+despues,aimara,comun,wikidata_lexemas,todas,5,1,1,0,0,0
+despues,aimara,comun,wikidata_lexemas,aptas,4,0,0,0,0,0
+despues,aimara,norte,ids,todas,2,1,0,1,0,0
+despues,aimara,norte,ids,aptas,2,1,0,1,0,0
+despues,aimara,norte,wikcionario_en,todas,1,0,0,0,0,0
+despues,aimara,norte,wikcionario_en,aptas,1,0,0,0,0,0
+despues,aimara,norte,wikcionario_es,todas,2,0,0,0,0,0
+despues,aimara,norte,wikcionario_es,aptas,2,0,0,0,0,0
+despues,aimara,sur,ids,todas,6,4,4,0,0,0
+despues,aimara,sur,ids,aptas,6,4,4,0,0,0
+despues,aimara,sur,wikcionario_en,todas,1,0,0,0,0,0
+despues,aimara,sur,wikcionario_en,aptas,1,0,0,0,0,0
+despues,aimara,sur,wikcionario_es,todas,12,5,2,3,0,0
+despues,aimara,sur,wikcionario_es,aptas,11,4,2,2,0,0
+despues,quechua,chanka,wikcionario_en,todas,65,0,0,0,0,65
+despues,quechua,chanka,wikcionario_en,aptas,62,0,0,0,0,62
+despues,quechua,chanka,wikcionario_es,todas,8,0,0,0,0,1
+despues,quechua,chanka,wikcionario_es,aptas,6,0,0,0,0,0
+despues,quechua,chanka,wikidata_lexemas,todas,43,0,0,0,0,43
+despues,quechua,chanka,wikidata_lexemas,aptas,40,0,0,0,0,40
+despues,quechua,comun,wikcionario_en,todas,1249,0,0,0,0,1249
+despues,quechua,comun,wikcionario_en,aptas,1180,0,0,0,0,1180
+despues,quechua,comun,wikcionario_es,todas,326,0,0,0,0,21
+despues,quechua,comun,wikcionario_es,aptas,293,0,0,0,0,15
+despues,quechua,comun,wikidata_lexemas,todas,929,0,0,0,0,929
+despues,quechua,comun,wikidata_lexemas,aptas,833,0,0,0,0,833
+despues,quechua,qullaw,wikcionario_en,todas,644,453,315,138,0,641
+despues,quechua,qullaw,wikcionario_en,aptas,636,451,314,137,0,634
+despues,quechua,qullaw,wikcionario_es,todas,1223,360,241,119,0,12
+despues,quechua,qullaw,wikcionario_es,aptas,936,326,221,105,0,10
+despues,quechua,qullaw,wikidata_lexemas,todas,796,697,455,242,0,796
+despues,quechua,qullaw,wikidata_lexemas,aptas,763,667,435,232,0,763

@@ -1,0 +1,13 @@
+corpus,fuente_id,variedad_quechua,variedad_declarada_por_la_fuente,oraciones_con_quechua,con_rasgo_collao,eyectiva,aspirada,progresivo_sha
+antes,americasnli,,chanka,994,9,0,9,0
+antes,constituciones,,mixta (que + quh),3371,2549,1604,945,0
+antes,dudh,,qullaw,80,25,16,9,0
+antes,flores200,,chanka,997,75,8,63,4
+antes,minedu_americasnlp,,chanka,4109,34,13,19,2
+antes,tatoeba,,sin declarar,398,92,50,29,13
+despues,americasnli,chanka,chanka,985,0,0,0,0
+despues,constituciones,qullaw,qullaw,2960,2549,1604,945,0
+despues,dudh,chanka,chanka,55,0,0,0,0
+despues,dudh,qullaw,qullaw,105,50,32,18,0
+despues,flores200,chanka,chanka,922,0,0,0,0
+despues,tatoeba,qullaw,qullaw,92,92,50,29,13

@@ -1,0 +1,1636 @@
+{
+  "1_licencias": {
+    "audio de oraciones": {
+      "antes": 3769,
+      "despues": 0,
+      "despues_uso_comercial_no": 0,
+      "por_fuente_retirada": {
+        "sintetico": {
+          "antes": 3769,
+          "proporcion_del_total_anterior": 1.0
+        }
+      },
+      "proporcion_retirada_del_total_anterior": 1.0,
+      "retirado_de_fuentes_retiradas": 3769
+    },
+    "audio de palabras": {
+      "antes": 57492,
+      "despues": 1011,
+      "despues_uso_comercial_no": 0,
+      "por_fuente_retirada": {
+        "sintetico": {
+          "antes": 55535,
+          "proporcion_del_total_anterior": 0.96596
+        }
+      },
+      "proporcion_retirada_del_total_anterior": 0.96596,
+      "retirado_de_fuentes_retiradas": 55535
+    },
+    "csv": "resultados/licencias_por_fuente.csv",
+    "evidencia o frases sin traducir": {
+      "antes": 2067,
+      "despues": 2338,
+      "despues_uso_comercial_no": 0,
+      "por_fuente_retirada": {},
+      "proporcion_retirada_del_total_anterior": 0.0,
+      "retirado_de_fuentes_retiradas": 0
+    },
+    "léxico": {
+      "antes": 58265,
+      "antes_aimara": 10358,
+      "antes_aptas": 11670,
+      "antes_por_clase": {
+        "CC BY-SA": 1903,
+        "CC0": 1695,
+        "no comercial": 50275,
+        "no declarada": 4392
+      },
+      "antes_quechua": 47907,
+      "despues": 6861,
+      "despues_aimara": 1578,
+      "despues_aptas": 6243,
+      "despues_por_clase": {
+        "CC BY": 817,
+        "CC BY-SA": 4271,
+        "CC0": 1773
+      },
+      "despues_quechua": 5283,
+      "despues_uso_comercial_no": 0,
+      "por_fuente_retirada": {
+        "minedu_americasnlp": {
+          "antes": 4392,
+          "proporcion_del_total_anterior": 0.07538
+        },
+        "panlex": {
+          "antes": 50275,
+          "proporcion_del_total_anterior": 0.862868
+        }
+      },
+      "proporcion_retirada_del_total_anterior": 0.938248,
+      "retirado_de_fuentes_retiradas": 54667
+    },
+    "oraciones": {
+      "antes": 15583,
+      "despues": 10853,
+      "despues_uso_comercial_no": 0,
+      "por_fuente_retirada": {
+        "minedu_americasnlp": {
+          "antes": 4109,
+          "proporcion_del_total_anterior": 0.263685
+        }
+      },
+      "proporcion_retirada_del_total_anterior": 0.263685,
+      "retirado_de_fuentes_retiradas": 4109
+    }
+  },
+  "2_fugas_variedad": {
+    "csv": [
+      "resultados/fugas_variedad_lexico.csv",
+      "resultados/fugas_variedad_oraciones.csv"
+    ],
+    "lexico_antes": {
+      "aptas": {
+        "aimara": 1591,
+        "aimara_norte": 0,
+        "aimara_norte_o_sur": 0,
+        "aimara_sur": 0,
+        "chanka_con_rasgo_collao": 139,
+        "chanka_con_rasgo_collao_proporcion": 0.025136,
+        "chanka_con_rasgo_por_fuente": {
+          "minedu_americasnlp": 132,
+          "panlex": 6,
+          "wikcionario_es": 1
+        },
+        "chanka_con_rasgo_por_tipo": {
+          "aspirada": 114,
+          "eyectiva": 25
+        },
+        "quechua": 10079,
+        "quechua_chanka": 5530,
+        "quechua_iso_qu": 1383,
+        "quechua_iso_qu_etiquetado_qullaw": 1383,
+        "quechua_iso_sin_variedad_declarada": 1410,
+        "quechua_iso_sin_variedad_declarada_proporcion": 0.139895,
+        "quechua_sin_variedad_etiquetada_en_sistema": 0
+      },
+      "todas": {
+        "aimara": 10358,
+        "aimara_norte": 0,
+        "aimara_norte_o_sur": 0,
+        "aimara_sur": 0,
+        "chanka_con_rasgo_collao": 156,
+        "chanka_con_rasgo_collao_proporcion": 0.006551,
+        "chanka_con_rasgo_por_fuente": {
+          "minedu_americasnlp": 132,
+          "panlex": 23,
+          "wikcionario_es": 1
+        },
+        "chanka_con_rasgo_por_tipo": {
+          "aspirada": 120,
+          "eyectiva": 35,
+          "progresivo_sha": 1
+        },
+        "quechua": 47907,
+        "quechua_chanka": 23812,
+        "quechua_iso_qu": 1720,
+        "quechua_iso_qu_etiquetado_qullaw": 1720,
+        "quechua_iso_sin_variedad_declarada": 4267,
+        "quechua_iso_sin_variedad_declarada_proporcion": 0.089068,
+        "quechua_sin_variedad_etiquetada_en_sistema": 0
+      }
+    },
+    "lexico_despues": {
+      "aptas": {
+        "aimara": 1494,
+        "aimara_norte": 5,
+        "aimara_norte_o_sur": 23,
+        "aimara_sur": 18,
+        "chanka_con_rasgo_collao": 0,
+        "chanka_con_rasgo_collao_proporcion": 0.0,
+        "chanka_con_rasgo_por_fuente": {},
+        "chanka_con_rasgo_por_tipo": {},
+        "quechua": 4749,
+        "quechua_chanka": 108,
+        "quechua_comun_neutra": 1609,
+        "quechua_comun_neutra_proporcion": 0.338808,
+        "quechua_iso_sin_variedad_declarada": 3537,
+        "quechua_iso_sin_variedad_declarada_proporcion": 0.744788
+      },
+      "todas": {
+        "aimara": 1578,
+        "aimara_norte": 5,
+        "aimara_norte_o_sur": 24,
+        "aimara_sur": 19,
+        "chanka_con_rasgo_collao": 0,
+        "chanka_con_rasgo_collao_proporcion": 0.0,
+        "chanka_con_rasgo_por_fuente": {},
+        "chanka_con_rasgo_por_tipo": {},
+        "quechua": 5283,
+        "quechua_chanka": 116,
+        "quechua_comun_neutra": 1768,
+        "quechua_comun_neutra_proporcion": 0.334658,
+        "quechua_iso_sin_variedad_declarada": 3757,
+        "quechua_iso_sin_variedad_declarada_proporcion": 0.711149
+      }
+    },
+    "nota": "antes: el sistema anterior derivaba la variedad del código ISO (quy → chanka; quz, quh, qu, qxp → qullaw; que → comun) y no tenía variedad en aimara ni en oraciones",
+    "oraciones_antes": {
+      "aimara_con_variedad": 0,
+      "con_quechua": 9949,
+      "con_quechua_sin_variedad_por_oracion": 9949,
+      "fuentes_chanka_con_rasgo_collao": 118,
+      "fuentes_chanka_con_rasgo_collao_proporcion": 0.019344,
+      "fuentes_chanka_oraciones": 6100,
+      "fuentes_sin_variedad_unica": 3769,
+      "por_fuente_chanka": {
+        "americasnli": [
+          9,
+          994
+        ],
+        "flores200": [
+          75,
+          997
+        ],
+        "minedu_americasnlp": [
+          34,
+          4109
+        ]
+      }
+    },
+    "oraciones_despues": {
+      "chanka": 1962,
+      "chanka_con_rasgo_collao": 0,
+      "con_quechua": 5119,
+      "qullaw": 3157,
+      "sin_variedad": 0
+    }
+  },
+  "3_clasificador": {
+    "control_rasgo_collao_no_qullaw": 0,
+    "control_rasgo_recalculado_distinto": 0,
+    "csv": [
+      "resultados/clasificador_lexico.csv",
+      "resultados/clasificador_evidencias_familia.csv",
+      "resultados/clasificador_evidencias_detalle.csv",
+      "resultados/clasificador_oraciones.csv"
+    ],
+    "entradas_con_evidencia_commonvoice": 889,
+    "entradas_con_evidencia_crossandean": 271,
+    "entradas_en_puno": 780,
+    "oraciones_por_variedad": {
+      "americasnli/chanka": 985,
+      "constituciones/qullaw": 2960,
+      "dudh/chanka": 55,
+      "dudh/qullaw": 105,
+      "flores200/chanka": 922,
+      "tatoeba/qullaw": 92
+    },
+    "por_lengua_variedad": {
+      "aimara/comun": 1554,
+      "aimara/norte": 5,
+      "aimara/sur": 19,
+      "quechua/chanka": 116,
+      "quechua/comun": 2504,
+      "quechua/qullaw": 2663
+    },
+    "por_lengua_variedad_aptas": {
+      "aimara/comun": 1471,
+      "aimara/norte": 5,
+      "aimara/sur": 18,
+      "quechua/chanka": 108,
+      "quechua/comun": 2306,
+      "quechua/qullaw": 2335
+    },
+    "por_regla": {
+      "aimara/aimara: atestiguada en ambas localidades": 113,
+      "aimara/aimara: atestiguada en una sola localidad": 24,
+      "aimara/aimara: sin atestiguar": 1441,
+      "quechua/1: rasgo exclusivo del Collao": 1510,
+      "quechua/2: atestiguada en ambas variedades": 736,
+      "quechua/3: atestiguada en una sola variedad": 1269,
+      "quechua/4: sin evidencia (neutra)": 1768
+    },
+    "por_regla_proporcion": {
+      "aimara/aimara: atestiguada en ambas localidades": 0.07161,
+      "aimara/aimara: atestiguada en una sola localidad": 0.015209,
+      "aimara/aimara: sin atestiguar": 0.913181,
+      "quechua/1: rasgo exclusivo del Collao": 0.285822,
+      "quechua/2: atestiguada en ambas variedades": 0.139315,
+      "quechua/3: atestiguada en una sola variedad": 0.240204,
+      "quechua/4: sin evidencia (neutra)": 0.334658
+    },
+    "quechua_qullaw_por_rasgo": {
+      "aspirada": 499,
+      "eyectiva": 1011
+    }
+  },
+  "4_cobertura": {
+    "nota": "las glosas españolas de IDS (aimara) vienen de Key-2016-1310; el mapa sin_Key-2016-1310 controla esa circularidad",
+    "sin_Key-2016-1310": {
+      "Swadesh-1952-200/aimara/norte/antes": {
+        "cubiertos": 143,
+        "ic95": [
+          0.748391,
+          0.863259
+        ],
+        "n": 176,
+        "proporcion": 0.8125
+      },
+      "Swadesh-1952-200/aimara/norte/antes_solo_fuentes_abiertas": {
+        "cubiertos": 78,
+        "ic95": [
+          0.371783,
+          0.517008
+        ],
+        "n": 176,
+        "proporcion": 0.443182
+      },
+      "Swadesh-1952-200/aimara/norte/despues": {
+        "cubiertos": 148,
+        "ic95": [
+          0.779677,
+          0.887577
+        ],
+        "n": 176,
+        "proporcion": 0.840909
+      },
+      "Swadesh-1952-200/aimara/norte/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 73,
+        "ic95": [
+          0.344564,
+          0.488623
+        ],
+        "n": 176,
+        "proporcion": 0.414773
+      },
+      "Swadesh-1952-200/aimara/sur/antes": {
+        "cubiertos": 143,
+        "ic95": [
+          0.748391,
+          0.863259
+        ],
+        "n": 176,
+        "proporcion": 0.8125
+      },
+      "Swadesh-1952-200/aimara/sur/antes_solo_fuentes_abiertas": {
+        "cubiertos": 78,
+        "ic95": [
+          0.371783,
+          0.517008
+        ],
+        "n": 176,
+        "proporcion": 0.443182
+      },
+      "Swadesh-1952-200/aimara/sur/despues": {
+        "cubiertos": 153,
+        "ic95": [
+          0.811541,
+          0.911318
+        ],
+        "n": 176,
+        "proporcion": 0.869318
+      },
+      "Swadesh-1952-200/aimara/sur/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 81,
+        "ic95": [
+          0.388228,
+          0.533926
+        ],
+        "n": 176,
+        "proporcion": 0.460227
+      },
+      "Swadesh-1952-200/quechua/chanka/antes": {
+        "cubiertos": 156,
+        "ic95": [
+          0.830998,
+          0.925223
+        ],
+        "n": 176,
+        "proporcion": 0.886364
+      },
+      "Swadesh-1952-200/quechua/chanka/antes_solo_fuentes_abiertas": {
+        "cubiertos": 2,
+        "ic95": [
+          0.003122,
+          0.04048
+        ],
+        "n": 176,
+        "proporcion": 0.011364
+      },
+      "Swadesh-1952-200/quechua/chanka/despues": {
+        "cubiertos": 135,
+        "ic95": [
+          0.699298,
+          0.823384
+        ],
+        "n": 176,
+        "proporcion": 0.767045
+      },
+      "Swadesh-1952-200/quechua/chanka/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 117,
+        "ic95": [
+          0.59217,
+          0.730337
+        ],
+        "n": 176,
+        "proporcion": 0.664773
+      },
+      "Swadesh-1952-200/quechua/qullaw/antes": {
+        "cubiertos": 109,
+        "ic95": [
+          0.545759,
+          0.68778
+        ],
+        "n": 176,
+        "proporcion": 0.619318
+      },
+      "Swadesh-1952-200/quechua/qullaw/antes_solo_fuentes_abiertas": {
+        "cubiertos": 57,
+        "ic95": [
+          0.259131,
+          0.396121
+        ],
+        "n": 176,
+        "proporcion": 0.323864
+      },
+      "Swadesh-1952-200/quechua/qullaw/despues": {
+        "cubiertos": 151,
+        "ic95": [
+          0.798718,
+          0.901899
+        ],
+        "n": 176,
+        "proporcion": 0.857955
+      },
+      "Swadesh-1952-200/quechua/qullaw/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 149,
+        "ic95": [
+          0.786,
+          0.892376
+        ],
+        "n": 176,
+        "proporcion": 0.846591
+      },
+      "Swadesh-1955-100/aimara/norte/antes": {
+        "cubiertos": 87,
+        "ic95": [
+          0.820542,
+          0.943033
+        ],
+        "n": 97,
+        "proporcion": 0.896907
+      },
+      "Swadesh-1955-100/aimara/norte/antes_solo_fuentes_abiertas": {
+        "cubiertos": 55,
+        "ic95": [
+          0.467716,
+          0.661199
+        ],
+        "n": 97,
+        "proporcion": 0.56701
+      },
+      "Swadesh-1955-100/aimara/norte/despues": {
+        "cubiertos": 84,
+        "ic95": [
+          0.7841,
+          0.919975
+        ],
+        "n": 97,
+        "proporcion": 0.865979
+      },
+      "Swadesh-1955-100/aimara/norte/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 59,
+        "ic95": [
+          0.508761,
+          0.699487
+        ],
+        "n": 97,
+        "proporcion": 0.608247
+      },
+      "Swadesh-1955-100/aimara/sur/antes": {
+        "cubiertos": 87,
+        "ic95": [
+          0.820542,
+          0.943033
+        ],
+        "n": 97,
+        "proporcion": 0.896907
+      },
+      "Swadesh-1955-100/aimara/sur/antes_solo_fuentes_abiertas": {
+        "cubiertos": 55,
+        "ic95": [
+          0.467716,
+          0.661199
+        ],
+        "n": 97,
+        "proporcion": 0.56701
+      },
+      "Swadesh-1955-100/aimara/sur/despues": {
+        "cubiertos": 87,
+        "ic95": [
+          0.820542,
+          0.943033
+        ],
+        "n": 97,
+        "proporcion": 0.896907
+      },
+      "Swadesh-1955-100/aimara/sur/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 64,
+        "ic95": [
+          0.561036,
+          0.746377
+        ],
+        "n": 97,
+        "proporcion": 0.659794
+      },
+      "Swadesh-1955-100/quechua/chanka/antes": {
+        "cubiertos": 91,
+        "ic95": [
+          0.871562,
+          0.971345
+        ],
+        "n": 97,
+        "proporcion": 0.938144
+      },
+      "Swadesh-1955-100/quechua/chanka/antes_solo_fuentes_abiertas": {
+        "cubiertos": 2,
+        "ic95": [
+          0.005673,
+          0.072088
+        ],
+        "n": 97,
+        "proporcion": 0.020619
+      },
+      "Swadesh-1955-100/quechua/chanka/despues": {
+        "cubiertos": 81,
+        "ic95": [
+          0.748735,
+          0.895841
+        ],
+        "n": 97,
+        "proporcion": 0.835052
+      },
+      "Swadesh-1955-100/quechua/chanka/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 77,
+        "ic95": [
+          0.702871,
+          0.862373
+        ],
+        "n": 97,
+        "proporcion": 0.793814
+      },
+      "Swadesh-1955-100/quechua/qullaw/antes": {
+        "cubiertos": 60,
+        "ic95": [
+          0.519127,
+          0.708953
+        ],
+        "n": 97,
+        "proporcion": 0.618557
+      },
+      "Swadesh-1955-100/quechua/qullaw/antes_solo_fuentes_abiertas": {
+        "cubiertos": 32,
+        "ic95": [
+          0.244381,
+          0.428373
+        ],
+        "n": 97,
+        "proporcion": 0.329897
+      },
+      "Swadesh-1955-100/quechua/qullaw/despues": {
+        "cubiertos": 89,
+        "ic95": [
+          0.845624,
+          0.957617
+        ],
+        "n": 97,
+        "proporcion": 0.917526
+      },
+      "Swadesh-1955-100/quechua/qullaw/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 89,
+        "ic95": [
+          0.845624,
+          0.957617
+        ],
+        "n": 97,
+        "proporcion": 0.917526
+      },
+      "Tadmor-2009-100/aimara/norte/antes": {
+        "cubiertos": 72,
+        "ic95": [
+          0.828217,
+          0.956415
+        ],
+        "n": 79,
+        "proporcion": 0.911392
+      },
+      "Tadmor-2009-100/aimara/norte/antes_solo_fuentes_abiertas": {
+        "cubiertos": 46,
+        "ic95": [
+          0.472193,
+          0.684734
+        ],
+        "n": 79,
+        "proporcion": 0.582278
+      },
+      "Tadmor-2009-100/aimara/norte/despues": {
+        "cubiertos": 71,
+        "ic95": [
+          0.812701,
+          0.947788
+        ],
+        "n": 79,
+        "proporcion": 0.898734
+      },
+      "Tadmor-2009-100/aimara/norte/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 46,
+        "ic95": [
+          0.472193,
+          0.684734
+        ],
+        "n": 79,
+        "proporcion": 0.582278
+      },
+      "Tadmor-2009-100/aimara/sur/antes": {
+        "cubiertos": 72,
+        "ic95": [
+          0.828217,
+          0.956415
+        ],
+        "n": 79,
+        "proporcion": 0.911392
+      },
+      "Tadmor-2009-100/aimara/sur/antes_solo_fuentes_abiertas": {
+        "cubiertos": 46,
+        "ic95": [
+          0.472193,
+          0.684734
+        ],
+        "n": 79,
+        "proporcion": 0.582278
+      },
+      "Tadmor-2009-100/aimara/sur/despues": {
+        "cubiertos": 75,
+        "ic95": [
+          0.876923,
+          0.980136
+        ],
+        "n": 79,
+        "proporcion": 0.949367
+      },
+      "Tadmor-2009-100/aimara/sur/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 52,
+        "ic95": [
+          0.548491,
+          0.75329
+        ],
+        "n": 79,
+        "proporcion": 0.658228
+      },
+      "Tadmor-2009-100/quechua/chanka/antes": {
+        "cubiertos": 74,
+        "ic95": [
+          0.860251,
+          0.972665
+        ],
+        "n": 79,
+        "proporcion": 0.936709
+      },
+      "Tadmor-2009-100/quechua/chanka/antes_solo_fuentes_abiertas": {
+        "cubiertos": 2,
+        "ic95": [
+          0.00697,
+          0.087686
+        ],
+        "n": 79,
+        "proporcion": 0.025316
+      },
+      "Tadmor-2009-100/quechua/chanka/despues": {
+        "cubiertos": 68,
+        "ic95": [
+          0.767627,
+          0.920435
+        ],
+        "n": 79,
+        "proporcion": 0.860759
+      },
+      "Tadmor-2009-100/quechua/chanka/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 63,
+        "ic95": [
+          0.69604,
+          0.871309
+        ],
+        "n": 79,
+        "proporcion": 0.797468
+      },
+      "Tadmor-2009-100/quechua/qullaw/antes": {
+        "cubiertos": 45,
+        "ic95": [
+          0.459722,
+          0.673062
+        ],
+        "n": 79,
+        "proporcion": 0.56962
+      },
+      "Tadmor-2009-100/quechua/qullaw/antes_solo_fuentes_abiertas": {
+        "cubiertos": 20,
+        "ic95": [
+          0.170279,
+          0.358943
+        ],
+        "n": 79,
+        "proporcion": 0.253165
+      },
+      "Tadmor-2009-100/quechua/qullaw/despues": {
+        "cubiertos": 74,
+        "ic95": [
+          0.860251,
+          0.972665
+        ],
+        "n": 79,
+        "proporcion": 0.936709
+      },
+      "Tadmor-2009-100/quechua/qullaw/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 73,
+        "ic95": [
+          0.844046,
+          0.964728
+        ],
+        "n": 79,
+        "proporcion": 0.924051
+      },
+      "csv": [
+        "resultados/cobertura_basica_sin_key_2016_1310.csv",
+        "resultados/cobertura_basica_por_concepto_sin_key_2016_1310.csv",
+        "resultados/cobertura_mapa_conceptos_es_sin_key_2016_1310.csv"
+      ],
+      "excluidos_sin_glosa_es": {
+        "Swadesh-1952-200": [
+          "and",
+          "because",
+          "berry (or fruit)",
+          "to breathe",
+          "to burn (intrans)",
+          "cold (of weather)",
+          "to count",
+          "to fight",
+          "to float",
+          "guts",
+          "to hit",
+          "to hunt (game)",
+          "to laugh",
+          "to play",
+          "to rain",
+          "road (or trail)",
+          "to scratch (as with fingernails to relieve itch)",
+          "some",
+          "to spit",
+          "to stab (or stick)",
+          "to turn (change one's direction)",
+          "warm (of weather)",
+          "to wipe",
+          "woods"
+        ],
+        "Swadesh-1955-100": [
+          "rain",
+          "road (path)",
+          "warm (hot)"
+        ],
+        "Tadmor-2009-100": [
+          "to go",
+          "arm/hand",
+          "to do/make",
+          "stone/rock",
+          "bitter",
+          "3sg pronoun",
+          "to hit/beat",
+          "leg/foot",
+          "yesterday",
+          "child (kin term)",
+          "to burn (intr.)",
+          "to know",
+          "to laugh",
+          "to hide",
+          "to carry",
+          "to take",
+          "wood",
+          "to run",
+          "to cry/weep",
+          "sweet",
+          "to crush/grind"
+        ]
+      }
+    },
+    "todas": {
+      "Swadesh-1952-200/aimara/norte/antes": {
+        "cubiertos": 159,
+        "ic95": [
+          0.777723,
+          0.882611
+        ],
+        "n": 190,
+        "proporcion": 0.836842
+      },
+      "Swadesh-1952-200/aimara/norte/antes_solo_fuentes_abiertas": {
+        "cubiertos": 84,
+        "ic95": [
+          0.373329,
+          0.513176
+        ],
+        "n": 190,
+        "proporcion": 0.442105
+      },
+      "Swadesh-1952-200/aimara/norte/despues": {
+        "cubiertos": 168,
+        "ic95": [
+          0.830913,
+          0.922279
+        ],
+        "n": 190,
+        "proporcion": 0.884211
+      },
+      "Swadesh-1952-200/aimara/norte/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 78,
+        "ic95": [
+          0.343026,
+          0.481573
+        ],
+        "n": 190,
+        "proporcion": 0.410526
+      },
+      "Swadesh-1952-200/aimara/sur/antes": {
+        "cubiertos": 159,
+        "ic95": [
+          0.777723,
+          0.882611
+        ],
+        "n": 190,
+        "proporcion": 0.836842
+      },
+      "Swadesh-1952-200/aimara/sur/antes_solo_fuentes_abiertas": {
+        "cubiertos": 84,
+        "ic95": [
+          0.373329,
+          0.513176
+        ],
+        "n": 190,
+        "proporcion": 0.442105
+      },
+      "Swadesh-1952-200/aimara/sur/despues": {
+        "cubiertos": 172,
+        "ic95": [
+          0.855231,
+          0.939233
+        ],
+        "n": 190,
+        "proporcion": 0.905263
+      },
+      "Swadesh-1952-200/aimara/sur/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 86,
+        "ic95": [
+          0.383493,
+          0.523647
+        ],
+        "n": 190,
+        "proporcion": 0.452632
+      },
+      "Swadesh-1952-200/quechua/chanka/antes": {
+        "cubiertos": 173,
+        "ic95": [
+          0.861395,
+          0.943387
+        ],
+        "n": 190,
+        "proporcion": 0.910526
+      },
+      "Swadesh-1952-200/quechua/chanka/antes_solo_fuentes_abiertas": {
+        "cubiertos": 3,
+        "ic95": [
+          0.005384,
+          0.045387
+        ],
+        "n": 190,
+        "proporcion": 0.015789
+      },
+      "Swadesh-1952-200/quechua/chanka/despues": {
+        "cubiertos": 146,
+        "ic95": [
+          0.703479,
+          0.822724
+        ],
+        "n": 190,
+        "proporcion": 0.768421
+      },
+      "Swadesh-1952-200/quechua/chanka/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 130,
+        "ic95": [
+          0.615022,
+          0.746098
+        ],
+        "n": 190,
+        "proporcion": 0.684211
+      },
+      "Swadesh-1952-200/quechua/qullaw/antes": {
+        "cubiertos": 123,
+        "ic95": [
+          0.577124,
+          0.711772
+        ],
+        "n": 190,
+        "proporcion": 0.647368
+      },
+      "Swadesh-1952-200/quechua/qullaw/antes_solo_fuentes_abiertas": {
+        "cubiertos": 68,
+        "ic95": [
+          0.293167,
+          0.428254
+        ],
+        "n": 190,
+        "proporcion": 0.357895
+      },
+      "Swadesh-1952-200/quechua/qullaw/despues": {
+        "cubiertos": 167,
+        "ic95": [
+          0.824908,
+          0.917967
+        ],
+        "n": 190,
+        "proporcion": 0.878947
+      },
+      "Swadesh-1952-200/quechua/qullaw/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 166,
+        "ic95": [
+          0.81893,
+          0.913627
+        ],
+        "n": 190,
+        "proporcion": 0.873684
+      },
+      "Swadesh-1955-100/aimara/norte/antes": {
+        "cubiertos": 89,
+        "ic95": [
+          0.834604,
+          0.950931
+        ],
+        "n": 98,
+        "proporcion": 0.908163
+      },
+      "Swadesh-1955-100/aimara/norte/antes_solo_fuentes_abiertas": {
+        "cubiertos": 57,
+        "ic95": [
+          0.482699,
+          0.674408
+        ],
+        "n": 98,
+        "proporcion": 0.581633
+      },
+      "Swadesh-1955-100/aimara/norte/despues": {
+        "cubiertos": 89,
+        "ic95": [
+          0.834604,
+          0.950931
+        ],
+        "n": 98,
+        "proporcion": 0.908163
+      },
+      "Swadesh-1955-100/aimara/norte/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 60,
+        "ic95": [
+          0.513287,
+          0.702735
+        ],
+        "n": 98,
+        "proporcion": 0.612245
+      },
+      "Swadesh-1955-100/aimara/sur/antes": {
+        "cubiertos": 89,
+        "ic95": [
+          0.834604,
+          0.950931
+        ],
+        "n": 98,
+        "proporcion": 0.908163
+      },
+      "Swadesh-1955-100/aimara/sur/antes_solo_fuentes_abiertas": {
+        "cubiertos": 57,
+        "ic95": [
+          0.482699,
+          0.674408
+        ],
+        "n": 98,
+        "proporcion": 0.581633
+      },
+      "Swadesh-1955-100/aimara/sur/despues": {
+        "cubiertos": 92,
+        "ic95": [
+          0.872809,
+          0.971641
+        ],
+        "n": 98,
+        "proporcion": 0.938776
+      },
+      "Swadesh-1955-100/aimara/sur/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 65,
+        "ic95": [
+          0.565115,
+          0.749099
+        ],
+        "n": 98,
+        "proporcion": 0.663265
+      },
+      "Swadesh-1955-100/quechua/chanka/antes": {
+        "cubiertos": 93,
+        "ic95": [
+          0.886075,
+          0.978013
+        ],
+        "n": 98,
+        "proporcion": 0.94898
+      },
+      "Swadesh-1955-100/quechua/chanka/antes_solo_fuentes_abiertas": {
+        "cubiertos": 3,
+        "ic95": [
+          0.010465,
+          0.08617
+        ],
+        "n": 98,
+        "proporcion": 0.030612
+      },
+      "Swadesh-1955-100/quechua/chanka/despues": {
+        "cubiertos": 83,
+        "ic95": [
+          0.762711,
+          0.904993
+        ],
+        "n": 98,
+        "proporcion": 0.846939
+      },
+      "Swadesh-1955-100/quechua/chanka/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 79,
+        "ic95": [
+          0.716932,
+          0.872219
+        ],
+        "n": 98,
+        "proporcion": 0.806122
+      },
+      "Swadesh-1955-100/quechua/qullaw/antes": {
+        "cubiertos": 62,
+        "ic95": [
+          0.533888,
+          0.721411
+        ],
+        "n": 98,
+        "proporcion": 0.632653
+      },
+      "Swadesh-1955-100/quechua/qullaw/antes_solo_fuentes_abiertas": {
+        "cubiertos": 32,
+        "ic95": [
+          0.241763,
+          0.424385
+        ],
+        "n": 98,
+        "proporcion": 0.326531
+      },
+      "Swadesh-1955-100/quechua/qullaw/despues": {
+        "cubiertos": 91,
+        "ic95": [
+          0.85984,
+          0.964972
+        ],
+        "n": 98,
+        "proporcion": 0.928571
+      },
+      "Swadesh-1955-100/quechua/qullaw/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 91,
+        "ic95": [
+          0.85984,
+          0.964972
+        ],
+        "n": 98,
+        "proporcion": 0.928571
+      },
+      "Tadmor-2009-100/aimara/norte/antes": {
+        "cubiertos": 86,
+        "ic95": [
+          0.818778,
+          0.942428
+        ],
+        "n": 96,
+        "proporcion": 0.895833
+      },
+      "Tadmor-2009-100/aimara/norte/antes_solo_fuentes_abiertas": {
+        "cubiertos": 50,
+        "ic95": [
+          0.422038,
+          0.618026
+        ],
+        "n": 96,
+        "proporcion": 0.520833
+      },
+      "Tadmor-2009-100/aimara/norte/despues": {
+        "cubiertos": 89,
+        "ic95": [
+          0.85707,
+          0.964232
+        ],
+        "n": 96,
+        "proporcion": 0.927083
+      },
+      "Tadmor-2009-100/aimara/norte/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 52,
+        "ic95": [
+          0.442316,
+          0.637812
+        ],
+        "n": 96,
+        "proporcion": 0.541667
+      },
+      "Tadmor-2009-100/aimara/sur/antes": {
+        "cubiertos": 86,
+        "ic95": [
+          0.818778,
+          0.942428
+        ],
+        "n": 96,
+        "proporcion": 0.895833
+      },
+      "Tadmor-2009-100/aimara/sur/antes_solo_fuentes_abiertas": {
+        "cubiertos": 50,
+        "ic95": [
+          0.422038,
+          0.618026
+        ],
+        "n": 96,
+        "proporcion": 0.520833
+      },
+      "Tadmor-2009-100/aimara/sur/despues": {
+        "cubiertos": 93,
+        "ic95": [
+          0.912113,
+          0.989316
+        ],
+        "n": 96,
+        "proporcion": 0.96875
+      },
+      "Tadmor-2009-100/aimara/sur/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 58,
+        "ic95": [
+          0.504151,
+          0.696166
+        ],
+        "n": 96,
+        "proporcion": 0.604167
+      },
+      "Tadmor-2009-100/quechua/chanka/antes": {
+        "cubiertos": 91,
+        "ic95": [
+          0.883815,
+          0.97755
+        ],
+        "n": 96,
+        "proporcion": 0.947917
+      },
+      "Tadmor-2009-100/quechua/chanka/antes_solo_fuentes_abiertas": {
+        "cubiertos": 3,
+        "ic95": [
+          0.010684,
+          0.087887
+        ],
+        "n": 96,
+        "proporcion": 0.03125
+      },
+      "Tadmor-2009-100/quechua/chanka/despues": {
+        "cubiertos": 81,
+        "ic95": [
+          0.758085,
+          0.902963
+        ],
+        "n": 96,
+        "proporcion": 0.84375
+      },
+      "Tadmor-2009-100/quechua/chanka/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 75,
+        "ic95": [
+          0.688621,
+          0.852237
+        ],
+        "n": 96,
+        "proporcion": 0.78125
+      },
+      "Tadmor-2009-100/quechua/qullaw/antes": {
+        "cubiertos": 55,
+        "ic95": [
+          0.473043,
+          0.667179
+        ],
+        "n": 96,
+        "proporcion": 0.572917
+      },
+      "Tadmor-2009-100/quechua/qullaw/antes_solo_fuentes_abiertas": {
+        "cubiertos": 29,
+        "ic95": [
+          0.219312,
+          0.400085
+        ],
+        "n": 96,
+        "proporcion": 0.302083
+      },
+      "Tadmor-2009-100/quechua/qullaw/despues": {
+        "cubiertos": 91,
+        "ic95": [
+          0.883815,
+          0.97755
+        ],
+        "n": 96,
+        "proporcion": 0.947917
+      },
+      "Tadmor-2009-100/quechua/qullaw/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 91,
+        "ic95": [
+          0.883815,
+          0.97755
+        ],
+        "n": 96,
+        "proporcion": 0.947917
+      },
+      "csv": [
+        "resultados/cobertura_basica.csv",
+        "resultados/cobertura_basica_por_concepto.csv",
+        "resultados/cobertura_mapa_conceptos_es.csv"
+      ],
+      "excluidos_sin_glosa_es": {
+        "Swadesh-1952-200": [
+          "berry (or fruit)",
+          "to breathe",
+          "cold (of weather)",
+          "guts",
+          "to hit",
+          "to rain",
+          "to scratch (as with fingernails to relieve itch)",
+          "to stab (or stick)",
+          "warm (of weather)",
+          "to wipe"
+        ],
+        "Swadesh-1955-100": [
+          "rain",
+          "warm (hot)"
+        ],
+        "Tadmor-2009-100": [
+          "arm/hand",
+          "leg/foot",
+          "to know",
+          "to hide"
+        ]
+      }
+    }
+  },
+  "5_sistema": {
+    "api": "http://127.0.0.1:3000",
+    "csv": [
+      "resultados/sistema_ejercicios.csv",
+      "resultados/sistema_resumen.csv"
+    ],
+    "objetivo_por_perfil": 3000,
+    "perfiles": [
+      {
+        "alcance": "todos los enfoques",
+        "audio_no_hablante": 0,
+        "con_audio_hablante": 246,
+        "con_audio_hablante_ic": [
+          0.072708,
+          0.092361
+        ],
+        "con_audio_hablante_prop": 0.082,
+        "control_distractores_fuera_perfil_opuesto": 1921,
+        "control_objetivo_fuera_perfil_opuesto": 1826,
+        "distractores": 9000,
+        "distractores_fuera": 0,
+        "distractores_fuera_ic_sup": 0.000427,
+        "distractores_fuera_prop": 0.0,
+        "distractores_sin_entrada": 0,
+        "ejercicios": 3000,
+        "entradas_distintas": 509,
+        "lengua": "quechua",
+        "objetivo_fuera": 0,
+        "objetivo_fuera_ic_sup": 0.001279,
+        "objetivo_fuera_prop": 0.0,
+        "perfil": "qullaw",
+        "puente": 1050,
+        "puente_respuesta_fuera": 0,
+        "tipos": {
+          "escuchar": 110,
+          "puente": 1050,
+          "reconocer": 1840
+        }
+      },
+      {
+        "alcance": "sin enfoque",
+        "audio_no_hablante": 0,
+        "con_audio_hablante": 63,
+        "con_audio_hablante_ic": [
+          0.032508,
+          0.052643
+        ],
+        "con_audio_hablante_prop": 0.04142,
+        "control_distractores_fuera_perfil_opuesto": 1079,
+        "control_objetivo_fuera_perfil_opuesto": 925,
+        "distractores": 4563,
+        "distractores_fuera": 0,
+        "distractores_fuera_ic_sup": 0.000841,
+        "distractores_fuera_prop": 0.0,
+        "distractores_sin_entrada": 0,
+        "ejercicios": 1521,
+        "entradas_distintas": 435,
+        "lengua": "quechua",
+        "objetivo_fuera": 0,
+        "objetivo_fuera_ic_sup": 0.002519,
+        "objetivo_fuera_prop": 0.0,
+        "perfil": "qullaw",
+        "puente": 391,
+        "puente_respuesta_fuera": 0,
+        "tipos": {
+          "escuchar": 16,
+          "puente": 391,
+          "reconocer": 1114
+        }
+      },
+      {
+        "alcance": "todos los enfoques",
+        "audio_no_hablante": 0,
+        "con_audio_hablante": 470,
+        "con_audio_hablante_ic": [
+          0.144003,
+          0.169999
+        ],
+        "con_audio_hablante_prop": 0.156562,
+        "control_distractores_fuera_perfil_opuesto": 0,
+        "control_objetivo_fuera_perfil_opuesto": 451,
+        "distractores": 9006,
+        "distractores_fuera": 0,
+        "distractores_fuera_ic_sup": 0.000426,
+        "distractores_fuera_prop": 0.0,
+        "distractores_sin_entrada": 0,
+        "ejercicios": 3002,
+        "entradas_distintas": 326,
+        "lengua": "quechua",
+        "objetivo_fuera": 0,
+        "objetivo_fuera_ic_sup": 0.001278,
+        "objetivo_fuera_prop": 0.0,
+        "perfil": "chanka",
+        "puente": 888,
+        "puente_respuesta_fuera": 0,
+        "tipos": {
+          "escuchar": 206,
+          "puente": 888,
+          "reconocer": 1908
+        }
+      },
+      {
+        "alcance": "sin enfoque",
+        "audio_no_hablante": 0,
+        "con_audio_hablante": 135,
+        "con_audio_hablante_ic": [
+          0.088827,
+          0.122171
+        ],
+        "con_audio_hablante_prop": 0.104328,
+        "control_distractores_fuera_perfil_opuesto": 0,
+        "control_objetivo_fuera_perfil_opuesto": 159,
+        "distractores": 3882,
+        "distractores_fuera": 0,
+        "distractores_fuera_ic_sup": 0.000989,
+        "distractores_fuera_prop": 0.0,
+        "distractores_sin_entrada": 0,
+        "ejercicios": 1294,
+        "entradas_distintas": 298,
+        "lengua": "quechua",
+        "objetivo_fuera": 0,
+        "objetivo_fuera_ic_sup": 0.00296,
+        "objetivo_fuera_prop": 0.0,
+        "perfil": "chanka",
+        "puente": 311,
+        "puente_respuesta_fuera": 0,
+        "tipos": {
+          "escuchar": 31,
+          "puente": 311,
+          "reconocer": 952
+        }
+      },
+      {
+        "alcance": "todos los enfoques",
+        "audio_no_hablante": 0,
+        "con_audio_hablante": 114,
+        "con_audio_hablante_ic": [
+          0.031686,
+          0.045393
+        ],
+        "con_audio_hablante_prop": 0.037949,
+        "control_distractores_fuera_perfil_opuesto": 106,
+        "control_objetivo_fuera_perfil_opuesto": 174,
+        "distractores": 9012,
+        "distractores_fuera": 0,
+        "distractores_fuera_ic_sup": 0.000426,
+        "distractores_fuera_prop": 0.0,
+        "distractores_sin_entrada": 0,
+        "ejercicios": 3004,
+        "entradas_distintas": 556,
+        "lengua": "aimara",
+        "objetivo_fuera": 0,
+        "objetivo_fuera_ic_sup": 0.001277,
+        "objetivo_fuera_prop": 0.0,
+        "perfil": "sur",
+        "puente": 960,
+        "puente_respuesta_fuera": 0,
+        "tipos": {
+          "escuchar": 45,
+          "producir": 6,
+          "puente": 960,
+          "reconocer": 1993
+        }
+      },
+      {
+        "alcance": "sin enfoque",
+        "audio_no_hablante": 0,
+        "con_audio_hablante": 36,
+        "con_audio_hablante_ic": [
+          0.02182,
+          0.041389
+        ],
+        "con_audio_hablante_prop": 0.0301,
+        "control_distractores_fuera_perfil_opuesto": 34,
+        "control_objetivo_fuera_perfil_opuesto": 65,
+        "distractores": 3588,
+        "distractores_fuera": 0,
+        "distractores_fuera_ic_sup": 0.001069,
+        "distractores_fuera_prop": 0.0,
+        "distractores_sin_entrada": 0,
+        "ejercicios": 1196,
+        "entradas_distintas": 422,
+        "lengua": "aimara",
+        "objetivo_fuera": 0,
+        "objetivo_fuera_ic_sup": 0.003202,
+        "objetivo_fuera_prop": 0.0,
+        "perfil": "sur",
+        "puente": 298,
+        "puente_respuesta_fuera": 0,
+        "tipos": {
+          "escuchar": 12,
+          "producir": 6,
+          "puente": 298,
+          "reconocer": 880
+        }
+      },
+      {
+        "alcance": "todos los enfoques",
+        "audio_no_hablante": 0,
+        "con_audio_hablante": 121,
+        "con_audio_hablante_ic": [
+          0.033647,
+          0.047681
+        ],
+        "con_audio_hablante_prop": 0.040079,
+        "control_distractores_fuera_perfil_opuesto": 133,
+        "control_objetivo_fuera_perfil_opuesto": 39,
+        "distractores": 9057,
+        "distractores_fuera": 0,
+        "distractores_fuera_ic_sup": 0.000424,
+        "distractores_fuera_prop": 0.0,
+        "distractores_sin_entrada": 0,
+        "ejercicios": 3019,
+        "entradas_distintas": 554,
+        "lengua": "aimara",
+        "objetivo_fuera": 0,
+        "objetivo_fuera_ic_sup": 0.001271,
+        "objetivo_fuera_prop": 0.0,
+        "perfil": "norte",
+        "puente": 619,
+        "puente_respuesta_fuera": 0,
+        "tipos": {
+          "escuchar": 52,
+          "producir": 6,
+          "puente": 619,
+          "reconocer": 2342
+        }
+      },
+      {
+        "alcance": "sin enfoque",
+        "audio_no_hablante": 0,
+        "con_audio_hablante": 41,
+        "con_audio_hablante_ic": [
+          0.020321,
+          0.037066
+        ],
+        "con_audio_hablante_prop": 0.02748,
+        "control_distractores_fuera_perfil_opuesto": 72,
+        "control_objetivo_fuera_perfil_opuesto": 20,
+        "distractores": 4476,
+        "distractores_fuera": 0,
+        "distractores_fuera_ic_sup": 0.000857,
+        "distractores_fuera_prop": 0.0,
+        "distractores_sin_entrada": 0,
+        "ejercicios": 1492,
+        "entradas_distintas": 430,
+        "lengua": "aimara",
+        "objetivo_fuera": 0,
+        "objetivo_fuera_ic_sup": 0.002568,
+        "objetivo_fuera_prop": 0.0,
+        "perfil": "norte",
+        "puente": 263,
+        "puente_respuesta_fuera": 0,
+        "tipos": {
+          "escuchar": 17,
+          "producir": 6,
+          "puente": 263,
+          "reconocer": 1206
+        }
+      }
+    ]
+  },
+  "6_kit_revision": {
+    "aimara": [
+      {
+        "clase": "comun-ambas",
+        "fuente_id": "ids",
+        "n": 17
+      },
+      {
+        "clase": "comun-ambas",
+        "fuente_id": "wikcionario_en",
+        "n": 4
+      },
+      {
+        "clase": "comun-ambas",
+        "fuente_id": "wikcionario_es",
+        "n": 16
+      },
+      {
+        "clase": "comun-ambas",
+        "fuente_id": "wikidata_lexemas",
+        "n": 1
+      },
+      {
+        "clase": "comun-sin_atestiguar",
+        "fuente_id": "ids",
+        "n": 12
+      },
+      {
+        "clase": "comun-sin_atestiguar",
+        "fuente_id": "wikcionario_en",
+        "n": 12
+      },
+      {
+        "clase": "comun-sin_atestiguar",
+        "fuente_id": "wikcionario_es",
+        "n": 11
+      },
+      {
+        "clase": "comun-sin_atestiguar",
+        "fuente_id": "wikidata_lexemas",
+        "n": 3
+      },
+      {
+        "clase": "norte",
+        "fuente_id": "ids",
+        "n": 2
+      },
+      {
+        "clase": "norte",
+        "fuente_id": "wikcionario_en",
+        "n": 1
+      },
+      {
+        "clase": "norte",
+        "fuente_id": "wikcionario_es",
+        "n": 2
+      },
+      {
+        "clase": "sur",
+        "fuente_id": "ids",
+        "n": 6
+      },
+      {
+        "clase": "sur",
+        "fuente_id": "wikcionario_en",
+        "n": 1
+      },
+      {
+        "clase": "sur",
+        "fuente_id": "wikcionario_es",
+        "n": 12
+      }
+    ],
+    "archivos": [
+      "revision/hoja-quechua.xlsx",
+      "revision/hoja-aimara.xlsx",
+      "revision/clave-oculta.csv"
+    ],
+    "quechua": [
+      {
+        "clase": "chanka",
+        "fuente_id": "wikcionario_en",
+        "n": 22
+      },
+      {
+        "clase": "chanka",
+        "fuente_id": "wikcionario_es",
+        "n": 6
+      },
+      {
+        "clase": "chanka",
+        "fuente_id": "wikidata_lexemas",
+        "n": 22
+      },
+      {
+        "clase": "comun-ambas",
+        "fuente_id": "wikcionario_en",
+        "n": 17
+      },
+      {
+        "clase": "comun-ambas",
+        "fuente_id": "wikcionario_es",
+        "n": 17
+      },
+      {
+        "clase": "comun-ambas",
+        "fuente_id": "wikidata_lexemas",
+        "n": 16
+      },
+      {
+        "clase": "comun-neutra",
+        "fuente_id": "wikcionario_en",
+        "n": 20
+      },
+      {
+        "clase": "comun-neutra",
+        "fuente_id": "wikcionario_es",
+        "n": 11
+      },
+      {
+        "clase": "comun-neutra",
+        "fuente_id": "wikidata_lexemas",
+        "n": 19
+      },
+      {
+        "clase": "qullaw",
+        "fuente_id": "wikcionario_en",
+        "n": 17
+      },
+      {
+        "clase": "qullaw",
+        "fuente_id": "wikcionario_es",
+        "n": 17
+      },
+      {
+        "clase": "qullaw",
+        "fuente_id": "wikidata_lexemas",
+        "n": 16
+      }
+    ],
+    "semilla": 2027,
+    "total": {
+      "aimara": 100,
+      "quechua": 200
+    }
+  }
+}

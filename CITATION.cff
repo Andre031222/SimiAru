@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "SimiAru: open, variety-aware Spanish–Quechua–Aymara resource of the eLOP platform"
+message: "If you use this resource, please cite it as below and credit the original sources listed in datos/fuentes/README.md."
+type: dataset
+authors:
+  - family-names: Vilca-Solorzano
+    given-names: Richar Andre
+    orcid: "https://orcid.org/0009-0003-2385-5263"
+  - family-names: Torres-Cruz
+    given-names: Fred
+    orcid: "https://orcid.org/0000-0003-0834-6834"
+  - family-names: Yana-Yucra
+    given-names: Dina Maribel
+    orcid: "https://orcid.org/0009-0003-6218-2735"
+  - family-names: Quispe-Vargas
+    given-names: Renato
+    orcid: "https://orcid.org/0009-0005-2367-7852"
+  - family-names: Ibáñez-Quispe
+    given-names: Vladimiro
+    orcid: "https://orcid.org/0000-0002-0277-4945"
+version: 1.0.0
+date-released: 2026-10-27
+license: CC-BY-SA-4.0
+url: "https://elop.ginit.dev"
+repository-code: "https://github.com/Andre031222/SimiAru"
+keywords:
+  - Quechua
+  - Aymara
+  - language varieties
+  - open licences
+  - lexical resources
+  - language learning

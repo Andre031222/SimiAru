@@ -1,0 +1,71 @@
+{
+  "por_variedad": {
+    "aimara/comun": {
+      "aptas": 1471,
+      "aptas_ids": 804,
+      "aptas_wikcionario_en": 114,
+      "aptas_wikcionario_es": 549,
+      "aptas_wikidata_lexemas": 4,
+      "desplazadas": 0,
+      "dos_o_mas_fuentes": 252,
+      "entradas": 1554,
+      "glosas_depuradas": 3,
+      "principales": 1258
+    },
+    "aimara/norte": {
+      "aptas": 5,
+      "aptas_ids": 2,
+      "aptas_wikcionario_en": 1,
+      "aptas_wikcionario_es": 2,
+      "desplazadas": 0,
+      "dos_o_mas_fuentes": 2,
+      "entradas": 5,
+      "glosas_depuradas": 0,
+      "principales": 3
+    },
+    "aimara/sur": {
+      "aptas": 18,
+      "aptas_ids": 6,
+      "aptas_wikcionario_en": 1,
+      "aptas_wikcionario_es": 11,
+      "desplazadas": 0,
+      "dos_o_mas_fuentes": 9,
+      "entradas": 19,
+      "glosas_depuradas": 0,
+      "principales": 15
+    },
+    "quechua/chanka": {
+      "aptas": 108,
+      "aptas_wikcionario_en": 62,
+      "aptas_wikcionario_es": 6,
+      "aptas_wikidata_lexemas": 40,
+      "desplazadas": 54,
+      "dos_o_mas_fuentes": 5,
+      "entradas": 116,
+      "glosas_depuradas": 10,
+      "principales": 94
+    },
+    "quechua/comun": {
+      "aptas": 2306,
+      "aptas_wikcionario_en": 1180,
+      "aptas_wikcionario_es": 293,
+      "aptas_wikidata_lexemas": 833,
+      "desplazadas": 0,
+      "dos_o_mas_fuentes": 249,
+      "entradas": 2504,
+      "glosas_depuradas": 127,
+      "principales": 1932
+    },
+    "quechua/qullaw": {
+      "aptas": 2335,
+      "aptas_wikcionario_en": 636,
+      "aptas_wikcionario_es": 936,
+      "aptas_wikidata_lexemas": 763,
+      "desplazadas": 75,
+      "dos_o_mas_fuentes": 282,
+      "entradas": 2663,
+      "glosas_depuradas": 102,
+      "principales": 1992
+    }
+  }
+}

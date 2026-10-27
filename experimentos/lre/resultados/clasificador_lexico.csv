@@ -1,0 +1,57 @@
+lengua,variedad,regla,tipo_evidencia,fuente_id,entradas,aptas
+aimara,comun,aimara: atestiguada en ambas localidades,ambas,ids,44,44
+aimara,comun,aimara: atestiguada en ambas localidades,ambas,wikcionario_en,4,4
+aimara,comun,aimara: atestiguada en ambas localidades,ambas,wikcionario_es,64,62
+aimara,comun,aimara: atestiguada en ambas localidades,ambas,wikidata_lexemas,1,1
+aimara,comun,aimara: sin atestiguar,sin_atestiguar,ids,765,760
+aimara,comun,aimara: sin atestiguar,sin_atestiguar,wikcionario_en,116,110
+aimara,comun,aimara: sin atestiguar,sin_atestiguar,wikcionario_es,556,487
+aimara,comun,aimara: sin atestiguar,sin_atestiguar,wikidata_lexemas,4,3
+aimara,norte,aimara: atestiguada en una sola localidad,crossandean (lista por localidad),ids,2,2
+aimara,norte,aimara: atestiguada en una sola localidad,crossandean (lista por localidad),wikcionario_en,1,1
+aimara,norte,aimara: atestiguada en una sola localidad,crossandean (lista por localidad),wikcionario_es,2,2
+aimara,sur,aimara: atestiguada en una sola localidad,crossandean (lista por localidad),ids,6,6
+aimara,sur,aimara: atestiguada en una sola localidad,crossandean (lista por localidad),wikcionario_en,1,1
+aimara,sur,aimara: atestiguada en una sola localidad,crossandean (lista por localidad),wikcionario_es,12,11
+quechua,chanka,3: atestiguada en una sola variedad,corpus declarado Chanka,wikcionario_en,62,59
+quechua,chanka,3: atestiguada en una sola variedad,corpus declarado Chanka,wikcionario_es,1,0
+quechua,chanka,3: atestiguada en una sola variedad,corpus declarado Chanka,wikidata_lexemas,43,40
+quechua,chanka,3: atestiguada en una sola variedad,corpus declarado Chanka+etiqueta ISO o dialectal de la fuente,wikcionario_es,1,1
+quechua,chanka,3: atestiguada en una sola variedad,crossandean (lista por localidad),wikcionario_en,2,2
+quechua,chanka,3: atestiguada en una sola variedad,etiqueta ISO o dialectal de la fuente,wikcionario_en,1,1
+quechua,chanka,3: atestiguada en una sola variedad,etiqueta ISO o dialectal de la fuente,wikcionario_es,6,5
+quechua,comun,2: atestiguada en ambas variedades,ambas,wikcionario_en,351,344
+quechua,comun,2: atestiguada en ambas variedades,ambas,wikcionario_es,310,282
+quechua,comun,2: atestiguada en ambas variedades,ambas,wikidata_lexemas,75,71
+quechua,comun,4: sin evidencia (neutra),neutra,wikcionario_en,898,836
+quechua,comun,4: sin evidencia (neutra),neutra,wikcionario_es,16,11
+quechua,comun,4: sin evidencia (neutra),neutra,wikidata_lexemas,854,762
+quechua,qullaw,1: rasgo exclusivo del Collao,aspirada,wikcionario_en,138,137
+quechua,qullaw,1: rasgo exclusivo del Collao,aspirada,wikcionario_es,119,105
+quechua,qullaw,1: rasgo exclusivo del Collao,aspirada,wikidata_lexemas,242,232
+quechua,qullaw,1: rasgo exclusivo del Collao,eyectiva,wikcionario_en,315,314
+quechua,qullaw,1: rasgo exclusivo del Collao,eyectiva,wikcionario_es,241,221
+quechua,qullaw,1: rasgo exclusivo del Collao,eyectiva,wikidata_lexemas,455,435
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno),wikcionario_en,73,71
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno),wikcionario_es,2,1
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno),wikidata_lexemas,50,48
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno)+corpus declarado Qullaw,wikcionario_en,8,8
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno)+corpus declarado Qullaw,wikidata_lexemas,10,10
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno)+corpus declarado Qullaw+crossandean (lista por localidad)+etiqueta ISO o dialectal de la fuente,wikcionario_es,1,1
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno)+corpus declarado Qullaw+etiqueta ISO o dialectal de la fuente,wikcionario_en,6,6
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno)+corpus declarado Qullaw+etiqueta ISO o dialectal de la fuente,wikcionario_es,8,6
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno)+corpus declarado Qullaw+etiqueta ISO o dialectal de la fuente,wikidata_lexemas,2,2
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno)+crossandean (lista por localidad),wikcionario_en,1,1
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno)+etiqueta ISO o dialectal de la fuente,wikcionario_en,37,35
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno)+etiqueta ISO o dialectal de la fuente,wikcionario_es,89,69
+quechua,qullaw,3: atestiguada en una sola variedad,Common Voice qxp (Puno)+etiqueta ISO o dialectal de la fuente,wikidata_lexemas,5,5
+quechua,qullaw,3: atestiguada en una sola variedad,corpus declarado Qullaw,wikcionario_en,7,7
+quechua,qullaw,3: atestiguada en una sola variedad,corpus declarado Qullaw,wikidata_lexemas,17,17
+quechua,qullaw,3: atestiguada en una sola variedad,corpus declarado Qullaw+etiqueta ISO o dialectal de la fuente,wikcionario_es,9,7
+quechua,qullaw,3: atestiguada en una sola variedad,crossandean (lista por localidad),wikcionario_en,1,1
+quechua,qullaw,3: atestiguada en una sola variedad,crossandean (lista por localidad),wikidata_lexemas,1,1
+quechua,qullaw,3: atestiguada en una sola variedad,crossandean (lista por localidad)+etiqueta ISO o dialectal de la fuente,wikcionario_en,1,1
+quechua,qullaw,3: atestiguada en una sola variedad,crossandean (lista por localidad)+etiqueta ISO o dialectal de la fuente,wikcionario_es,2,2
+quechua,qullaw,3: atestiguada en una sola variedad,etiqueta ISO o dialectal de la fuente,wikcionario_en,57,55
+quechua,qullaw,3: atestiguada en una sola variedad,etiqueta ISO o dialectal de la fuente,wikcionario_es,752,524
+quechua,qullaw,3: atestiguada en una sola variedad,etiqueta ISO o dialectal de la fuente,wikidata_lexemas,14,13

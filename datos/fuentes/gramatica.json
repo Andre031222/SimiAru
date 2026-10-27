@@ -1,0 +1,490 @@
+{
+  "referencias": {
+    "quechua": "Cerrón-Palomino, R. (1987). Lingüística quechua. Cusco: Centro de Estudios Rurales Andinos Bartolomé de Las Casas.",
+    "aimara": "Hardman, M. J., Vásquez, J. y Yapita, J. D. (1988). Aymara: compendio de estructura fonológica y gramatical. La Paz: Gramma."
+  },
+  "estado": "Unidades redactadas por el equipo a partir de las gramáticas de referencia; pendientes de revisión por hablantes.",
+  "unidades": [
+    {
+      "id": "qu-plural",
+      "lengua": "quechua",
+      "nivel": "A1",
+      "orden": 1,
+      "titulo": "El plural: -kuna",
+      "resumen": "Se agrega -kuna al sustantivo para indicar más de uno.",
+      "explicacion": "El quechua marca el plural de los sustantivos con el sufijo -kuna, que va inmediatamente después de la raíz y antes de los sufijos de caso. Cuando un número o una palabra como «achka» (mucho) ya indica cantidad, el plural suele omitirse.",
+      "modelos": [
+        [
+          "wasi",
+          "casa"
+        ],
+        [
+          "wasikuna",
+          "casas"
+        ],
+        [
+          "wasikunapi",
+          "en las casas"
+        ]
+      ],
+      "sufijos": [
+        "kuna"
+      ],
+      "grupo": [
+        "kuna",
+        "pi",
+        "man",
+        "wan"
+      ]
+    },
+    {
+      "id": "qu-posesivos",
+      "lengua": "quechua",
+      "nivel": "A1",
+      "orden": 2,
+      "titulo": "Posesivos: -y, -yki, -n",
+      "resumen": "Mi, tu y su se expresan con sufijos en el sustantivo.",
+      "explicacion": "La posesión se marca con sufijos personales: -y (mi), -yki (tu) y -n (su). Tras consonante se inserta -ni- (por ejemplo, -niy). Pueden combinarse con el plural: wasiykuna, mis casas.",
+      "modelos": [
+        [
+          "wasiy",
+          "mi casa"
+        ],
+        [
+          "wasiyki",
+          "tu casa"
+        ],
+        [
+          "wasin",
+          "su casa"
+        ]
+      ],
+      "sufijos": [
+        "yki"
+      ],
+      "grupo": [
+        "yki",
+        "kuna",
+        "manta",
+        "pi"
+      ]
+    },
+    {
+      "id": "qu-locativo",
+      "lengua": "quechua",
+      "nivel": "A1",
+      "orden": 3,
+      "titulo": "Dónde: el locativo -pi",
+      "resumen": "-pi indica el lugar donde algo está o sucede: «en».",
+      "explicacion": "El sufijo de caso locativo -pi señala ubicación en el espacio o en el tiempo. Equivale a «en» del español.",
+      "modelos": [
+        [
+          "wasipi",
+          "en la casa"
+        ],
+        [
+          "llaqtapi",
+          "en el pueblo"
+        ],
+        [
+          "tutapi",
+          "en la noche"
+        ]
+      ],
+      "sufijos": [
+        "pi"
+      ],
+      "grupo": [
+        "pi",
+        "man",
+        "manta",
+        "wan"
+      ]
+    },
+    {
+      "id": "qu-direccional",
+      "lengua": "quechua",
+      "nivel": "A2",
+      "orden": 4,
+      "titulo": "Hacia dónde: -man",
+      "resumen": "-man marca el destino o el receptor: «a, hacia».",
+      "explicacion": "El caso direccional -man indica movimiento hacia un lugar y también a la persona que recibe algo. Equivale a «a» o «hacia».",
+      "modelos": [
+        [
+          "wasiman",
+          "a la casa"
+        ],
+        [
+          "llaqtaman",
+          "hacia el pueblo"
+        ],
+        [
+          "mamaman",
+          "a la madre"
+        ]
+      ],
+      "sufijos": [
+        "man"
+      ],
+      "grupo": [
+        "man",
+        "pi",
+        "manta",
+        "wan"
+      ]
+    },
+    {
+      "id": "qu-ablativo",
+      "lengua": "quechua",
+      "nivel": "A2",
+      "orden": 5,
+      "titulo": "Desde dónde: -manta",
+      "resumen": "-manta indica origen o tema: «de, desde, acerca de».",
+      "explicacion": "El caso ablativo -manta expresa el punto de partida, la procedencia o el tema del que se habla. Equivale a «de», «desde» o «acerca de».",
+      "modelos": [
+        [
+          "wasimanta",
+          "desde la casa"
+        ],
+        [
+          "Punumanta",
+          "de Puno"
+        ],
+        [
+          "chaymanta",
+          "después de eso"
+        ]
+      ],
+      "sufijos": [
+        "manta"
+      ],
+      "grupo": [
+        "manta",
+        "man",
+        "pi",
+        "wan"
+      ]
+    },
+    {
+      "id": "qu-comitativo",
+      "lengua": "quechua",
+      "nivel": "A2",
+      "orden": 6,
+      "titulo": "Con quién o con qué: -wan",
+      "resumen": "-wan marca compañía o instrumento: «con».",
+      "explicacion": "El sufijo -wan indica la compañía (con alguien) o el instrumento (con algo). También puede unir dos sustantivos: «tantawan yakuwan», pan y agua.",
+      "modelos": [
+        [
+          "mamaywan",
+          "con mi madre"
+        ],
+        [
+          "makiwan",
+          "con la mano"
+        ],
+        [
+          "tantawan",
+          "con pan"
+        ]
+      ],
+      "sufijos": [
+        "wan"
+      ],
+      "grupo": [
+        "wan",
+        "pi",
+        "man",
+        "manta"
+      ]
+    },
+    {
+      "id": "qu-objeto",
+      "lengua": "quechua",
+      "nivel": "A2",
+      "orden": 7,
+      "titulo": "El objeto directo: -ta",
+      "resumen": "-ta marca a quién o qué recibe la acción.",
+      "explicacion": "El caso acusativo -ta señala el objeto directo del verbo. El orden habitual de la oración es sujeto, objeto y verbo.",
+      "modelos": [
+        [
+          "wasita rikuni",
+          "veo la casa"
+        ],
+        [
+          "tantata mikhuni",
+          "como pan"
+        ],
+        [
+          "yakuta upyan",
+          "bebe agua"
+        ]
+      ],
+      "sufijos": [
+        "ta"
+      ],
+      "grupo": [
+        "ta",
+        "pi",
+        "man",
+        "wan"
+      ]
+    },
+    {
+      "id": "qu-pregunta",
+      "lengua": "quechua",
+      "nivel": "A1",
+      "orden": 8,
+      "titulo": "Preguntas y negación: -chu",
+      "resumen": "-chu forma preguntas de sí o no y acompaña a «mana» en la negación.",
+      "explicacion": "El sufijo -chu se añade a la palabra sobre la que se pregunta. En la negación aparece junto con «mana» (no): «Mana riqsinichu», no lo conozco.",
+      "modelos": [
+        [
+          "Allinllachu?",
+          "¿Estás bien?"
+        ],
+        [
+          "Qanchu?",
+          "¿Tú?"
+        ],
+        [
+          "Mana yachanichu",
+          "No sé"
+        ]
+      ],
+      "sufijos": [
+        "chu"
+      ],
+      "grupo": [
+        "chu",
+        "mi",
+        "si",
+        "pas"
+      ]
+    },
+    {
+      "id": "qu-presente",
+      "lengua": "quechua",
+      "nivel": "A2",
+      "orden": 9,
+      "titulo": "El verbo en presente: -ni, -nki, -n",
+      "resumen": "Las personas del verbo se marcan con sufijos.",
+      "explicacion": "Sobre la raíz verbal se agregan las marcas de persona: -ni (yo), -nki (tú) y -n (él o ella). Con -rqa- se forma el pasado: rimarqani, hablé.",
+      "modelos": [
+        [
+          "rimani",
+          "hablo"
+        ],
+        [
+          "rimanki",
+          "hablas"
+        ],
+        [
+          "riman",
+          "habla"
+        ]
+      ],
+      "sufijos": [
+        "nki"
+      ],
+      "grupo": [
+        "nki",
+        "ni",
+        "rqa",
+        "chu"
+      ],
+      "raiz_verbal": true
+    },
+    {
+      "id": "ay-plural",
+      "lengua": "aimara",
+      "nivel": "A1",
+      "orden": 1,
+      "titulo": "El plural: -naka",
+      "resumen": "Se agrega -naka al sustantivo para indicar más de uno.",
+      "explicacion": "El aimara marca el plural con el sufijo -naka, que va después de la raíz y antes de los sufijos de caso y posesión.",
+      "modelos": [
+        [
+          "uta",
+          "casa"
+        ],
+        [
+          "utanaka",
+          "casas"
+        ],
+        [
+          "utanakana",
+          "en las casas"
+        ]
+      ],
+      "sufijos": [
+        "naka"
+      ],
+      "grupo": [
+        "naka",
+        "mpi",
+        "ru",
+        "xa"
+      ]
+    },
+    {
+      "id": "ay-posesivos",
+      "lengua": "aimara",
+      "nivel": "A1",
+      "orden": 2,
+      "titulo": "Posesivos: -ja, -ma, -pa",
+      "resumen": "Mi, tu y su se expresan con sufijos en el sustantivo.",
+      "explicacion": "La posesión se marca con sufijos personales: -ja (mi), -ma (tu), -pa (su) y -sa (nuestro, incluyendo a quien escucha).",
+      "modelos": [
+        [
+          "utaja",
+          "mi casa"
+        ],
+        [
+          "utama",
+          "tu casa"
+        ],
+        [
+          "utapa",
+          "su casa"
+        ]
+      ],
+      "sufijos": [
+        "pa"
+      ],
+      "grupo": [
+        "pa",
+        "naka",
+        "xa",
+        "mpi"
+      ]
+    },
+    {
+      "id": "ay-comitativo",
+      "lengua": "aimara",
+      "nivel": "A2",
+      "orden": 3,
+      "titulo": "Con quién o con qué: -mpi",
+      "resumen": "-mpi marca compañía o instrumento: «con».",
+      "explicacion": "El sufijo -mpi indica compañía o instrumento, y también une sustantivos: «t'ant'ampi umampi», pan y agua.",
+      "modelos": [
+        [
+          "jupampi",
+          "con él o ella"
+        ],
+        [
+          "amparampi",
+          "con la mano"
+        ],
+        [
+          "t'ant'ampi",
+          "con pan"
+        ]
+      ],
+      "sufijos": [
+        "mpi"
+      ],
+      "grupo": [
+        "mpi",
+        "naka",
+        "ru",
+        "xa"
+      ]
+    },
+    {
+      "id": "ay-direccional",
+      "lengua": "aimara",
+      "nivel": "A2",
+      "orden": 4,
+      "titulo": "Hacia dónde: -ru",
+      "resumen": "-ru marca el destino del movimiento: «a, hacia».",
+      "explicacion": "El sufijo direccional -ru (también -ro en algunas zonas) indica hacia dónde se dirige el movimiento o a quién se da algo.",
+      "modelos": [
+        [
+          "utaru",
+          "a la casa"
+        ],
+        [
+          "markaru",
+          "al pueblo"
+        ],
+        [
+          "juparu",
+          "a él o ella"
+        ]
+      ],
+      "sufijos": [
+        "ru"
+      ],
+      "grupo": [
+        "ru",
+        "mpi",
+        "naka",
+        "xa"
+      ]
+    },
+    {
+      "id": "ay-topico",
+      "lengua": "aimara",
+      "nivel": "A1",
+      "orden": 5,
+      "titulo": "El tema de la oración: -xa",
+      "resumen": "-xa señala de quién o de qué se habla.",
+      "explicacion": "El sufijo -xa marca el tópico: aquello de lo que trata la oración. Es muy frecuente con pronombres: «Nayaxa», en cuanto a mí.",
+      "modelos": [
+        [
+          "Nayaxa",
+          "yo (en cuanto a mí)"
+        ],
+        [
+          "Jumaxa",
+          "tú"
+        ],
+        [
+          "Utaxa",
+          "la casa (de la que hablamos)"
+        ]
+      ],
+      "sufijos": [
+        "xa"
+      ],
+      "grupo": [
+        "xa",
+        "wa",
+        "ti",
+        "mpi"
+      ]
+    },
+    {
+      "id": "ay-afirmacion",
+      "lengua": "aimara",
+      "nivel": "A2",
+      "orden": 6,
+      "titulo": "Afirmar y preguntar: -wa y -ti",
+      "resumen": "-wa afirma lo que se dice; -ti forma preguntas de sí o no.",
+      "explicacion": "El sufijo -wa marca una afirmación de la que se tiene conocimiento; -ti convierte la oración en una pregunta de sí o no. En el habla, la vocal final suele caer: «Jupaw», «Jumax».",
+      "modelos": [
+        [
+          "Aymarawa",
+          "es aimara"
+        ],
+        [
+          "Jupawa",
+          "es él o ella"
+        ],
+        [
+          "Utati?",
+          "¿es una casa?"
+        ]
+      ],
+      "sufijos": [
+        "wa"
+      ],
+      "grupo": [
+        "wa",
+        "ti",
+        "xa",
+        "naka"
+      ]
+    }
+  ]
+}

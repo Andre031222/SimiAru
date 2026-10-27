@@ -1,0 +1,9 @@
+# Leyendas (borrador, en inglés para el artículo)
+
+**Fig. 1** Composition of the eLOP resources before (corpus of 25 October 2026, prior to the licence audit) and after the rebuild, by source and licence class. Each bar shows the share of records per source; colour and hatching encode the licence class, and n gives the number of records. Lexicon: entries; parallel sentences: sentence pairs with Spanish (in order after Global Voices: Tatoeba, FLORES-200 dev, AmericasNLI, Constitutions, UDHR); word audio: lexicon entries linked to an audio file. Unlabelled narrow segments are under 5 %. Source: `resultados/licencias_por_fuente.csv`.
+
+**Fig. 2** Lexicon entries in the rebuilt corpus by language, assigned variety and type of evidence used by the rule-based classifier: (a) Quechua, (b) Aymara. For Aymara, "attested in one variety" means attested in only one of the two *crossandean* localities (Huancané, northern; Sullkatiti, southern). Numbers at the end of each bar are totals. Source: `resultados/clasificador_lexico.csv`.
+
+**Fig. 3** Share of basic concepts with at least one usable (`apta`) lexicon form available to a learner of each variety (learner variety plus common), before and after the rebuild: (a) Swadesh 100, (b) Leipzig–Jakarta list. Concepts were mapped to Spanish through Concepticon identifiers; n is the number of concepts with a Spanish gloss. "Before" uses the previous ISO-based labels; the previous corpus had no Aymara variety labels, so both Aymara profiles use all Aymara entries. Horizontal lines are Wilson 95 % confidence intervals. Source: `resultados/cobertura_basica.csv`.
+
+**Fig. 4** Processing pipeline of eLOP: licence audit of the sources, rule-based variety classification of lexicon entries and sentences, the variety-tagged base, and the API filter that restricts exercise targets, distractors and exams to the learner's variety plus common forms.

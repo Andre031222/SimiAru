@@ -1,0 +1,49 @@
+mapa_es,lista,nombre_lista,lengua,perfil,escenario,conceptos_lista,conceptos_con_glosa_es,cubiertos,proporcion,wilson_inf,wilson_sup
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,quechua,qullaw,antes,100,97,60,0.618557,0.519127,0.708953
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,quechua,qullaw,antes_solo_fuentes_abiertas,100,97,32,0.329897,0.244381,0.428373
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,quechua,qullaw,despues,100,97,89,0.917526,0.845624,0.957617
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,quechua,qullaw,despues_sin_comun_no_atestiguado,100,97,89,0.917526,0.845624,0.957617
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,quechua,chanka,antes,100,97,91,0.938144,0.871562,0.971345
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,quechua,chanka,antes_solo_fuentes_abiertas,100,97,2,0.020619,0.005673,0.072088
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,quechua,chanka,despues,100,97,81,0.835052,0.748735,0.895841
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,quechua,chanka,despues_sin_comun_no_atestiguado,100,97,77,0.793814,0.702871,0.862373
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,aimara,sur,antes,100,97,87,0.896907,0.820542,0.943033
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,aimara,sur,antes_solo_fuentes_abiertas,100,97,55,0.56701,0.467716,0.661199
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,aimara,sur,despues,100,97,87,0.896907,0.820542,0.943033
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,aimara,sur,despues_sin_comun_no_atestiguado,100,97,64,0.659794,0.561036,0.746377
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,aimara,norte,antes,100,97,87,0.896907,0.820542,0.943033
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,aimara,norte,antes_solo_fuentes_abiertas,100,97,55,0.56701,0.467716,0.661199
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,aimara,norte,despues,100,97,84,0.865979,0.7841,0.919975
+sin_Key-2016-1310,Swadesh-1955-100,Swadesh 100,aimara,norte,despues_sin_comun_no_atestiguado,100,97,59,0.608247,0.508761,0.699487
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,quechua,qullaw,antes,100,79,45,0.56962,0.459722,0.673062
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,quechua,qullaw,antes_solo_fuentes_abiertas,100,79,20,0.253165,0.170279,0.358943
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,quechua,qullaw,despues,100,79,74,0.936709,0.860251,0.972665
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,quechua,qullaw,despues_sin_comun_no_atestiguado,100,79,73,0.924051,0.844046,0.964728
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,quechua,chanka,antes,100,79,74,0.936709,0.860251,0.972665
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,quechua,chanka,antes_solo_fuentes_abiertas,100,79,2,0.025316,0.00697,0.087686
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,quechua,chanka,despues,100,79,68,0.860759,0.767627,0.920435
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,quechua,chanka,despues_sin_comun_no_atestiguado,100,79,63,0.797468,0.69604,0.871309
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,aimara,sur,antes,100,79,72,0.911392,0.828217,0.956415
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,aimara,sur,antes_solo_fuentes_abiertas,100,79,46,0.582278,0.472193,0.684734
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,aimara,sur,despues,100,79,75,0.949367,0.876923,0.980136
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,aimara,sur,despues_sin_comun_no_atestiguado,100,79,52,0.658228,0.548491,0.75329
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,aimara,norte,antes,100,79,72,0.911392,0.828217,0.956415
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,aimara,norte,antes_solo_fuentes_abiertas,100,79,46,0.582278,0.472193,0.684734
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,aimara,norte,despues,100,79,71,0.898734,0.812701,0.947788
+sin_Key-2016-1310,Tadmor-2009-100,Leipzig–Jakarta,aimara,norte,despues_sin_comun_no_atestiguado,100,79,46,0.582278,0.472193,0.684734
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,quechua,qullaw,antes,200,176,109,0.619318,0.545759,0.68778
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,quechua,qullaw,antes_solo_fuentes_abiertas,200,176,57,0.323864,0.259131,0.396121
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,quechua,qullaw,despues,200,176,151,0.857955,0.798718,0.901899
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,quechua,qullaw,despues_sin_comun_no_atestiguado,200,176,149,0.846591,0.786,0.892376
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,quechua,chanka,antes,200,176,156,0.886364,0.830998,0.925223
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,quechua,chanka,antes_solo_fuentes_abiertas,200,176,2,0.011364,0.003122,0.04048
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,quechua,chanka,despues,200,176,135,0.767045,0.699298,0.823384
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,quechua,chanka,despues_sin_comun_no_atestiguado,200,176,117,0.664773,0.59217,0.730337
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,aimara,sur,antes,200,176,143,0.8125,0.748391,0.863259
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,aimara,sur,antes_solo_fuentes_abiertas,200,176,78,0.443182,0.371783,0.517008
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,aimara,sur,despues,200,176,153,0.869318,0.811541,0.911318
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,aimara,sur,despues_sin_comun_no_atestiguado,200,176,81,0.460227,0.388228,0.533926
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,aimara,norte,antes,200,176,143,0.8125,0.748391,0.863259
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,aimara,norte,antes_solo_fuentes_abiertas,200,176,78,0.443182,0.371783,0.517008
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,aimara,norte,despues,200,176,148,0.840909,0.779677,0.887577
+sin_Key-2016-1310,Swadesh-1952-200,Swadesh 200,aimara,norte,despues_sin_comun_no_atestiguado,200,176,73,0.414773,0.344564,0.488623

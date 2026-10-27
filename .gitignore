@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.sqlite
+*.sqlite-*
+datos/fuentes/crudo/
+datos/curado/audio/
+experimentos/lre/entrada/
+api/
