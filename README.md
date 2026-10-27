@@ -180,4 +180,4 @@ A journal article describing this resource is in preparation. Until then, cite t
 
 ## Contact
 
-Richar Andre Vilca Solorzano · [ORCID 0009-0003-2385-5263](https://orcid.org/0009-0003-2385-5263) · andrevilcasolorzano@gmail.com
+Richar Andre Vilca Solorzano · [ORCID 0009-0003-2385-5263](https://orcid.org/0009-0003-2385-5263) · ravilcasolorzano@gmail.com

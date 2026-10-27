@@ -76,4 +76,4 @@ python3 datos/scripts/08_ejemplos_gramatica.py
 
 ## Contacto
 
-Richar Andre Vilca Solorzano · [ORCID 0009-0003-2385-5263](https://orcid.org/0009-0003-2385-5263) · andrevilcasolorzano@gmail.com
+Richar Andre Vilca Solorzano · [ORCID 0009-0003-2385-5263](https://orcid.org/0009-0003-2385-5263) · ravilcasolorzano@gmail.com
