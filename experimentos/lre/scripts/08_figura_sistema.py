@@ -26,7 +26,7 @@ for eje, imagen, letra in [(eje_a, a, "a"), (eje_b, b, "b")]:
     eje.set_axis_off()
 fig.text(0.002, (alto_b + margen + alto_a) / alto + 0.004, "a", fontsize=9, fontweight="bold", va="bottom")
 fig.text(0.002, alto_b / alto + 0.004, "b", fontsize=9, fontweight="bold", va="bottom")
-for ext in ["pdf", "eps", "png", "tiff"]:
+for ext in ["pdf", "png", "tiff"]:
     opciones = {"dpi": 600} if ext in ("png", "tiff") else {"dpi": 600}
     if ext == "tiff":
         opciones["pil_kwargs"] = {"compression": "tiff_lzw"}

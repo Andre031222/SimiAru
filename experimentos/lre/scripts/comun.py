@@ -36,7 +36,7 @@ def consulta(url: str, sql: str, parametros=None) -> pd.DataFrame:
 
 def lexico_actual() -> pd.DataFrame:
     return consulta(URL_ACTUAL, "select id, lengua, iso, variedad, variedad_evidencia, forma, glosa_es, fuente_id, licencia, apta, principal, "
-                                "audio, audio_origen, compartida, en_puno from contenido.lexico")
+                                "audio, audio_origen, compartida, en_puno, nucleo from contenido.lexico")
 
 
 def lexico_anterior() -> pd.DataFrame:

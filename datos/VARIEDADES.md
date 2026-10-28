@@ -65,3 +65,19 @@ Al cargar la base, `07_cargar_postgres.py` impone una restricción `check`: el q
 - *crossandean* ofrece unos 150 conceptos por localidad, con un hablante cada una. Por eso hay muy pocas entradas `norte` o `sur` en aimara, y su asignación refleja a esos hablantes.
 - La regla de la aspirada puede fallar en compuestos donde una oclusiva final precede a una palabra que empieza por h, salvo *hina*, que ya está excluida.
 - Las glosas del Wiktionary en inglés vienen de tablas de traducción donde el español y el quechua o el aimara están en la misma acepción. Siguen siendo un puente a través de esa acepción y no se han verificado con hablantes. Tienen confianza 2.
+
+## Filtro de calidad y núcleo (`scripts/14_calidad_lexica.py`)
+
+Se ejecuta después de `10_calidad_glosas.py` y antes de `07_cargar_postgres.py`. Deja de marcar como aptas para ejercicios:
+
+| Motivo (`motivo_calidad`) | Regla |
+| --- | --- |
+| `letra_ajena` | quechua con b, c sin h, d, f, g, j, v, x o z; aimara con b, c sin h, d, f, g, v o z (la x es válida en aimara) |
+| `vocal_larga_no_surena` | quechua con vocal doble (aa, ii, uu), rasgo del quechua central |
+| `ortografia_pentavocal` | forma escrita con e u o |
+| `sufijo` | forma que empieza con guion |
+| `glosa_rara` | la mejor de las tres primeras acepciones tiene frecuencia Zipf menor que 1,2 en español (`wordfreq`) |
+
+En el aimara de IDS, las vocales largas dobles se reescriben con diéresis (ä, ï, ü), como pide el alfabeto oficial.
+
+El **núcleo** (`nucleo`) reúne las entradas aptas con glosa común (Zipf de 3,6 o más) y respaldo independiente: fuente curada (confianza 3), acuerdo de tres o más fuentes (`soporte`), o al menos tres apariciones en el texto de Wikipedia en quechua o aimara o en las transcripciones de Common Voice de Puno (`uso_corpus`). Las lecciones, la práctica, el examen y los retos lo usan primero, y la muestra de revisores se toma de él. Informe en `curado/calidad-lexica.json`.

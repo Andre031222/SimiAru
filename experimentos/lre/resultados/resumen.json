@@ -48,7 +48,7 @@
       "antes_quechua": 47907,
       "despues": 6861,
       "despues_aimara": 1578,
-      "despues_aptas": 6243,
+      "despues_aptas": 5849,
       "despues_por_clase": {
         "CC BY": 817,
         "CC BY-SA": 4271,
@@ -141,7 +141,7 @@
     },
     "lexico_despues": {
       "aptas": {
-        "aimara": 1494,
+        "aimara": 1482,
         "aimara_norte": 5,
         "aimara_norte_o_sur": 23,
         "aimara_sur": 18,
@@ -149,12 +149,12 @@
         "chanka_con_rasgo_collao_proporcion": 0.0,
         "chanka_con_rasgo_por_fuente": {},
         "chanka_con_rasgo_por_tipo": {},
-        "quechua": 4749,
-        "quechua_chanka": 108,
-        "quechua_comun_neutra": 1609,
-        "quechua_comun_neutra_proporcion": 0.338808,
-        "quechua_iso_sin_variedad_declarada": 3537,
-        "quechua_iso_sin_variedad_declarada_proporcion": 0.744788
+        "quechua": 4367,
+        "quechua_chanka": 104,
+        "quechua_comun_neutra": 1416,
+        "quechua_comun_neutra_proporcion": 0.32425,
+        "quechua_iso_sin_variedad_declarada": 3205,
+        "quechua_iso_sin_variedad_declarada_proporcion": 0.733913
       },
       "todas": {
         "aimara": 1578,
@@ -234,12 +234,12 @@
       "quechua/qullaw": 2663
     },
     "por_lengua_variedad_aptas": {
-      "aimara/comun": 1471,
+      "aimara/comun": 1459,
       "aimara/norte": 5,
       "aimara/sur": 18,
-      "quechua/chanka": 108,
-      "quechua/comun": 2306,
-      "quechua/qullaw": 2335
+      "quechua/chanka": 104,
+      "quechua/comun": 2104,
+      "quechua/qullaw": 2159
     },
     "por_regla": {
       "aimara/aimara: atestiguada en ambas localidades": 113,
@@ -358,13 +358,13 @@
         "proporcion": 0.011364
       },
       "Swadesh-1952-200/quechua/chanka/despues": {
-        "cubiertos": 135,
+        "cubiertos": 133,
         "ic95": [
-          0.699298,
-          0.823384
+          0.687185,
+          0.813256
         ],
         "n": 176,
-        "proporcion": 0.767045
+        "proporcion": 0.755682
       },
       "Swadesh-1952-200/quechua/chanka/despues_sin_comun_no_atestiguado": {
         "cubiertos": 117,
@@ -394,15 +394,6 @@
         "proporcion": 0.323864
       },
       "Swadesh-1952-200/quechua/qullaw/despues": {
-        "cubiertos": 151,
-        "ic95": [
-          0.798718,
-          0.901899
-        ],
-        "n": 176,
-        "proporcion": 0.857955
-      },
-      "Swadesh-1952-200/quechua/qullaw/despues_sin_comun_no_atestiguado": {
         "cubiertos": 149,
         "ic95": [
           0.786,
@@ -410,6 +401,15 @@
         ],
         "n": 176,
         "proporcion": 0.846591
+      },
+      "Swadesh-1952-200/quechua/qullaw/despues_sin_comun_no_atestiguado": {
+        "cubiertos": 147,
+        "ic95": [
+          0.773377,
+          0.882756
+        ],
+        "n": 176,
+        "proporcion": 0.835227
       },
       "Swadesh-1955-100/aimara/norte/antes": {
         "cubiertos": 87,
@@ -853,13 +853,13 @@
         "proporcion": 0.015789
       },
       "Swadesh-1952-200/quechua/chanka/despues": {
-        "cubiertos": 146,
+        "cubiertos": 144,
         "ic95": [
-          0.703479,
-          0.822724
+          0.692266,
+          0.813302
         ],
         "n": 190,
-        "proporcion": 0.768421
+        "proporcion": 0.757895
       },
       "Swadesh-1952-200/quechua/chanka/despues_sin_comun_no_atestiguado": {
         "cubiertos": 130,
@@ -889,22 +889,22 @@
         "proporcion": 0.357895
       },
       "Swadesh-1952-200/quechua/qullaw/despues": {
-        "cubiertos": 167,
+        "cubiertos": 165,
         "ic95": [
-          0.824908,
-          0.917967
+          0.812977,
+          0.909263
         ],
         "n": 190,
-        "proporcion": 0.878947
+        "proporcion": 0.868421
       },
       "Swadesh-1952-200/quechua/qullaw/despues_sin_comun_no_atestiguado": {
-        "cubiertos": 166,
+        "cubiertos": 164,
         "ic95": [
-          0.81893,
-          0.913627
+          0.807047,
+          0.904875
         ],
         "n": 190,
-        "proporcion": 0.873684
+        "proporcion": 0.863158
       },
       "Swadesh-1955-100/aimara/norte/antes": {
         "cubiertos": 89,
@@ -1236,125 +1236,125 @@
       {
         "alcance": "todos los enfoques",
         "audio_no_hablante": 0,
-        "con_audio_hablante": 246,
+        "con_audio_hablante": 205,
         "con_audio_hablante_ic": [
-          0.072708,
-          0.092361
+          0.059606,
+          0.077617
         ],
-        "con_audio_hablante_prop": 0.082,
-        "control_distractores_fuera_perfil_opuesto": 1921,
-        "control_objetivo_fuera_perfil_opuesto": 1826,
-        "distractores": 9000,
+        "con_audio_hablante_prop": 0.068061,
+        "control_distractores_fuera_perfil_opuesto": 1929,
+        "control_objetivo_fuera_perfil_opuesto": 1717,
+        "distractores": 9036,
         "distractores_fuera": 0,
-        "distractores_fuera_ic_sup": 0.000427,
+        "distractores_fuera_ic_sup": 0.000425,
         "distractores_fuera_prop": 0.0,
         "distractores_sin_entrada": 0,
-        "ejercicios": 3000,
-        "entradas_distintas": 509,
+        "ejercicios": 3012,
+        "entradas_distintas": 500,
         "lengua": "quechua",
         "objetivo_fuera": 0,
-        "objetivo_fuera_ic_sup": 0.001279,
+        "objetivo_fuera_ic_sup": 0.001274,
         "objetivo_fuera_prop": 0.0,
         "perfil": "qullaw",
-        "puente": 1050,
+        "puente": 1045,
         "puente_respuesta_fuera": 0,
         "tipos": {
-          "escuchar": 110,
-          "puente": 1050,
-          "reconocer": 1840
+          "escuchar": 100,
+          "puente": 1045,
+          "reconocer": 1867
         }
       },
       {
         "alcance": "sin enfoque",
         "audio_no_hablante": 0,
-        "con_audio_hablante": 63,
+        "con_audio_hablante": 47,
         "con_audio_hablante_ic": [
-          0.032508,
-          0.052643
+          0.024046,
+          0.042114
         ],
-        "con_audio_hablante_prop": 0.04142,
-        "control_distractores_fuera_perfil_opuesto": 1079,
-        "control_objetivo_fuera_perfil_opuesto": 925,
-        "distractores": 4563,
+        "con_audio_hablante_prop": 0.031864,
+        "control_distractores_fuera_perfil_opuesto": 1054,
+        "control_objetivo_fuera_perfil_opuesto": 862,
+        "distractores": 4425,
         "distractores_fuera": 0,
-        "distractores_fuera_ic_sup": 0.000841,
+        "distractores_fuera_ic_sup": 0.000867,
         "distractores_fuera_prop": 0.0,
         "distractores_sin_entrada": 0,
-        "ejercicios": 1521,
-        "entradas_distintas": 435,
+        "ejercicios": 1475,
+        "entradas_distintas": 422,
         "lengua": "quechua",
         "objetivo_fuera": 0,
-        "objetivo_fuera_ic_sup": 0.002519,
+        "objetivo_fuera_ic_sup": 0.002598,
         "objetivo_fuera_prop": 0.0,
         "perfil": "qullaw",
-        "puente": 391,
+        "puente": 358,
         "puente_respuesta_fuera": 0,
         "tipos": {
-          "escuchar": 16,
-          "puente": 391,
-          "reconocer": 1114
+          "escuchar": 8,
+          "puente": 358,
+          "reconocer": 1109
         }
       },
       {
         "alcance": "todos los enfoques",
         "audio_no_hablante": 0,
-        "con_audio_hablante": 470,
+        "con_audio_hablante": 353,
         "con_audio_hablante_ic": [
-          0.144003,
-          0.169999
+          0.106337,
+          0.129346
         ],
-        "con_audio_hablante_prop": 0.156562,
+        "con_audio_hablante_prop": 0.117354,
         "control_distractores_fuera_perfil_opuesto": 0,
-        "control_objetivo_fuera_perfil_opuesto": 451,
-        "distractores": 9006,
+        "control_objetivo_fuera_perfil_opuesto": 506,
+        "distractores": 9024,
         "distractores_fuera": 0,
         "distractores_fuera_ic_sup": 0.000426,
         "distractores_fuera_prop": 0.0,
         "distractores_sin_entrada": 0,
-        "ejercicios": 3002,
-        "entradas_distintas": 326,
+        "ejercicios": 3008,
+        "entradas_distintas": 288,
         "lengua": "quechua",
         "objetivo_fuera": 0,
-        "objetivo_fuera_ic_sup": 0.001278,
+        "objetivo_fuera_ic_sup": 0.001275,
         "objetivo_fuera_prop": 0.0,
         "perfil": "chanka",
-        "puente": 888,
+        "puente": 843,
         "puente_respuesta_fuera": 0,
         "tipos": {
-          "escuchar": 206,
-          "puente": 888,
-          "reconocer": 1908
+          "escuchar": 178,
+          "puente": 843,
+          "reconocer": 1987
         }
       },
       {
         "alcance": "sin enfoque",
         "audio_no_hablante": 0,
-        "con_audio_hablante": 135,
+        "con_audio_hablante": 113,
         "con_audio_hablante_ic": [
-          0.088827,
-          0.122171
+          0.065086,
+          0.092681
         ],
-        "con_audio_hablante_prop": 0.104328,
+        "con_audio_hablante_prop": 0.07777,
         "control_distractores_fuera_perfil_opuesto": 0,
-        "control_objetivo_fuera_perfil_opuesto": 159,
-        "distractores": 3882,
+        "control_objetivo_fuera_perfil_opuesto": 319,
+        "distractores": 4359,
         "distractores_fuera": 0,
-        "distractores_fuera_ic_sup": 0.000989,
+        "distractores_fuera_ic_sup": 0.00088,
         "distractores_fuera_prop": 0.0,
         "distractores_sin_entrada": 0,
-        "ejercicios": 1294,
-        "entradas_distintas": 298,
+        "ejercicios": 1453,
+        "entradas_distintas": 260,
         "lengua": "quechua",
         "objetivo_fuera": 0,
-        "objetivo_fuera_ic_sup": 0.00296,
+        "objetivo_fuera_ic_sup": 0.002637,
         "objetivo_fuera_prop": 0.0,
         "perfil": "chanka",
-        "puente": 311,
+        "puente": 332,
         "puente_respuesta_fuera": 0,
         "tipos": {
           "escuchar": 31,
-          "puente": 311,
-          "reconocer": 952
+          "puente": 332,
+          "reconocer": 1090
         }
       },
       {
@@ -1362,31 +1362,31 @@
         "audio_no_hablante": 0,
         "con_audio_hablante": 114,
         "con_audio_hablante_ic": [
-          0.031686,
-          0.045393
+          0.031643,
+          0.045333
         ],
-        "con_audio_hablante_prop": 0.037949,
-        "control_distractores_fuera_perfil_opuesto": 106,
-        "control_objetivo_fuera_perfil_opuesto": 174,
-        "distractores": 9012,
+        "con_audio_hablante_prop": 0.037899,
+        "control_distractores_fuera_perfil_opuesto": 113,
+        "control_objetivo_fuera_perfil_opuesto": 164,
+        "distractores": 9024,
         "distractores_fuera": 0,
         "distractores_fuera_ic_sup": 0.000426,
         "distractores_fuera_prop": 0.0,
         "distractores_sin_entrada": 0,
-        "ejercicios": 3004,
-        "entradas_distintas": 556,
+        "ejercicios": 3008,
+        "entradas_distintas": 537,
         "lengua": "aimara",
         "objetivo_fuera": 0,
-        "objetivo_fuera_ic_sup": 0.001277,
+        "objetivo_fuera_ic_sup": 0.001275,
         "objetivo_fuera_prop": 0.0,
         "perfil": "sur",
-        "puente": 960,
+        "puente": 959,
         "puente_respuesta_fuera": 0,
         "tipos": {
           "escuchar": 45,
           "producir": 6,
-          "puente": 960,
-          "reconocer": 1993
+          "puente": 959,
+          "reconocer": 1998
         }
       },
       {
@@ -1394,95 +1394,95 @@
         "audio_no_hablante": 0,
         "con_audio_hablante": 36,
         "con_audio_hablante_ic": [
-          0.02182,
-          0.041389
+          0.022657,
+          0.042959
         ],
-        "con_audio_hablante_prop": 0.0301,
-        "control_distractores_fuera_perfil_opuesto": 34,
-        "control_objetivo_fuera_perfil_opuesto": 65,
-        "distractores": 3588,
+        "con_audio_hablante_prop": 0.03125,
+        "control_distractores_fuera_perfil_opuesto": 33,
+        "control_objetivo_fuera_perfil_opuesto": 62,
+        "distractores": 3456,
         "distractores_fuera": 0,
-        "distractores_fuera_ic_sup": 0.001069,
+        "distractores_fuera_ic_sup": 0.00111,
         "distractores_fuera_prop": 0.0,
         "distractores_sin_entrada": 0,
-        "ejercicios": 1196,
-        "entradas_distintas": 422,
+        "ejercicios": 1152,
+        "entradas_distintas": 405,
         "lengua": "aimara",
         "objetivo_fuera": 0,
-        "objetivo_fuera_ic_sup": 0.003202,
+        "objetivo_fuera_ic_sup": 0.003324,
         "objetivo_fuera_prop": 0.0,
         "perfil": "sur",
-        "puente": 298,
+        "puente": 276,
         "puente_respuesta_fuera": 0,
         "tipos": {
           "escuchar": 12,
           "producir": 6,
-          "puente": 298,
-          "reconocer": 880
+          "puente": 276,
+          "reconocer": 858
         }
       },
       {
         "alcance": "todos los enfoques",
         "audio_no_hablante": 0,
-        "con_audio_hablante": 121,
+        "con_audio_hablante": 117,
         "con_audio_hablante_ic": [
-          0.033647,
-          0.047681
+          0.032609,
+          0.046491
         ],
-        "con_audio_hablante_prop": 0.040079,
-        "control_distractores_fuera_perfil_opuesto": 133,
-        "control_objetivo_fuera_perfil_opuesto": 39,
-        "distractores": 9057,
+        "con_audio_hablante_prop": 0.038961,
+        "control_distractores_fuera_perfil_opuesto": 136,
+        "control_objetivo_fuera_perfil_opuesto": 30,
+        "distractores": 9009,
         "distractores_fuera": 0,
-        "distractores_fuera_ic_sup": 0.000424,
+        "distractores_fuera_ic_sup": 0.000426,
         "distractores_fuera_prop": 0.0,
         "distractores_sin_entrada": 0,
-        "ejercicios": 3019,
-        "entradas_distintas": 554,
+        "ejercicios": 3003,
+        "entradas_distintas": 524,
         "lengua": "aimara",
         "objetivo_fuera": 0,
-        "objetivo_fuera_ic_sup": 0.001271,
+        "objetivo_fuera_ic_sup": 0.001278,
         "objetivo_fuera_prop": 0.0,
         "perfil": "norte",
-        "puente": 619,
+        "puente": 575,
         "puente_respuesta_fuera": 0,
         "tipos": {
-          "escuchar": 52,
+          "escuchar": 51,
           "producir": 6,
-          "puente": 619,
-          "reconocer": 2342
+          "puente": 575,
+          "reconocer": 2371
         }
       },
       {
         "alcance": "sin enfoque",
         "audio_no_hablante": 0,
-        "con_audio_hablante": 41,
+        "con_audio_hablante": 37,
         "con_audio_hablante_ic": [
-          0.020321,
-          0.037066
+          0.018241,
+          0.03436
         ],
-        "con_audio_hablante_prop": 0.02748,
-        "control_distractores_fuera_perfil_opuesto": 72,
-        "control_objetivo_fuera_perfil_opuesto": 20,
-        "distractores": 4476,
+        "con_audio_hablante_prop": 0.025068,
+        "control_distractores_fuera_perfil_opuesto": 78,
+        "control_objetivo_fuera_perfil_opuesto": 16,
+        "distractores": 4428,
         "distractores_fuera": 0,
-        "distractores_fuera_ic_sup": 0.000857,
+        "distractores_fuera_ic_sup": 0.000867,
         "distractores_fuera_prop": 0.0,
         "distractores_sin_entrada": 0,
-        "ejercicios": 1492,
-        "entradas_distintas": 430,
+        "ejercicios": 1476,
+        "entradas_distintas": 422,
         "lengua": "aimara",
         "objetivo_fuera": 0,
-        "objetivo_fuera_ic_sup": 0.002568,
+        "objetivo_fuera_ic_sup": 0.002596,
         "objetivo_fuera_prop": 0.0,
         "perfil": "norte",
-        "puente": 263,
+        "puente": 234,
         "puente_respuesta_fuera": 0,
         "tipos": {
-          "escuchar": 17,
+          "escuchar": 16,
           "producir": 6,
-          "puente": 263,
-          "reconocer": 1206
+          "puente": 234,
+          "reconocer": 1220
         }
       }
     ]
@@ -1492,17 +1492,12 @@
       {
         "clase": "comun-ambas",
         "fuente_id": "ids",
-        "n": 17
-      },
-      {
-        "clase": "comun-ambas",
-        "fuente_id": "wikcionario_en",
-        "n": 4
+        "n": 20
       },
       {
         "clase": "comun-ambas",
         "fuente_id": "wikcionario_es",
-        "n": 16
+        "n": 19
       },
       {
         "clase": "comun-ambas",
@@ -1512,31 +1507,26 @@
       {
         "clase": "comun-sin_atestiguar",
         "fuente_id": "ids",
-        "n": 12
+        "n": 13
       },
       {
         "clase": "comun-sin_atestiguar",
         "fuente_id": "wikcionario_en",
-        "n": 12
+        "n": 13
       },
       {
         "clase": "comun-sin_atestiguar",
         "fuente_id": "wikcionario_es",
-        "n": 11
+        "n": 13
       },
       {
         "clase": "comun-sin_atestiguar",
         "fuente_id": "wikidata_lexemas",
-        "n": 3
+        "n": 1
       },
       {
         "clase": "norte",
         "fuente_id": "ids",
-        "n": 2
-      },
-      {
-        "clase": "norte",
-        "fuente_id": "wikcionario_en",
         "n": 1
       },
       {
@@ -1547,7 +1537,7 @@
       {
         "clase": "sur",
         "fuente_id": "ids",
-        "n": 6
+        "n": 4
       },
       {
         "clase": "sur",
@@ -1569,17 +1559,17 @@
       {
         "clase": "chanka",
         "fuente_id": "wikcionario_en",
-        "n": 22
+        "n": 24
       },
       {
         "clase": "chanka",
         "fuente_id": "wikcionario_es",
-        "n": 6
+        "n": 3
       },
       {
         "clase": "chanka",
         "fuente_id": "wikidata_lexemas",
-        "n": 22
+        "n": 6
       },
       {
         "clase": "comun-ambas",
@@ -1599,17 +1589,17 @@
       {
         "clase": "comun-neutra",
         "fuente_id": "wikcionario_en",
-        "n": 20
+        "n": 24
       },
       {
         "clase": "comun-neutra",
         "fuente_id": "wikcionario_es",
-        "n": 11
+        "n": 2
       },
       {
         "clase": "comun-neutra",
         "fuente_id": "wikidata_lexemas",
-        "n": 19
+        "n": 24
       },
       {
         "clase": "qullaw",
@@ -1630,7 +1620,7 @@
     "semilla": 2027,
     "total": {
       "aimara": 100,
-      "quechua": 200
+      "quechua": 183
     }
   }
 }

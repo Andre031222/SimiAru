@@ -60,6 +60,7 @@ python3 datos/scripts/03_audio_humano.py
 python3 datos/scripts/02_construir_base.py
 python3 datos/scripts/10_calidad_glosas.py
 python3 datos/scripts/08_ejemplos_gramatica.py
+uv run datos/scripts/14_calidad_lexica.py
 ```
 
 ## Licencia

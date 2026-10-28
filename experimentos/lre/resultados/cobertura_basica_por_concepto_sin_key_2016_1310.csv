@@ -198,8 +198,8 @@ Swadesh-1955-100,quechua,qullaw,despues,646,ashes,1,2,uchpa | uspha
 Swadesh-1955-100,quechua,qullaw,despues,1204,bark,0,0,
 Swadesh-1955-100,quechua,qullaw,despues,1251,belly,1,4,kisma | pach'a | pata
 Swadesh-1955-100,quechua,qullaw,despues,1202,big,1,1,hatun
-Swadesh-1955-100,quechua,qullaw,despues,937,bird,1,2,pisgo | pisqu
-Swadesh-1955-100,quechua,qullaw,despues,1403,bite,1,7,achaqay | kanii | kaniy
+Swadesh-1955-100,quechua,qullaw,despues,937,bird,1,1,pisqu
+Swadesh-1955-100,quechua,qullaw,despues,1403,bite,1,6,achaqay | kaniy | khachuy
 Swadesh-1955-100,quechua,qullaw,despues,163,black,1,1,yana
 Swadesh-1955-100,quechua,qullaw,despues,946,blood,1,1,yawar
 Swadesh-1955-100,quechua,qullaw,despues,1394,bone,1,1,tullu
@@ -207,14 +207,14 @@ Swadesh-1955-100,quechua,qullaw,despues,1402,*breast,1,1,ñuñu
 Swadesh-1955-100,quechua,qullaw,despues,2102,burn,1,11,hapuy | hayay | k'anachiy
 Swadesh-1955-100,quechua,qullaw,despues,72,*claw,1,1,sillu
 Swadesh-1955-100,quechua,qullaw,despues,1489,cloud,1,3,phuyu | pukutay | puyu
-Swadesh-1955-100,quechua,qullaw,despues,1287,cold,1,3,chiri | gasa | qasa
-Swadesh-1955-100,quechua,qullaw,despues,1446,come,1,3,hamui | hamuy | jamuy
+Swadesh-1955-100,quechua,qullaw,despues,1287,cold,1,2,chiri | qasa
+Swadesh-1955-100,quechua,qullaw,despues,1446,come,1,2,hamui | hamuy
 Swadesh-1955-100,quechua,qullaw,despues,1494,die,1,1,wañuy
-Swadesh-1955-100,quechua,qullaw,despues,2009,dog,1,4,alkho | allgo | allqu
+Swadesh-1955-100,quechua,qullaw,despues,2009,dog,1,1,allqu
 Swadesh-1955-100,quechua,qullaw,despues,1401,drink,1,4,machay | suq'uy | uphyay
 Swadesh-1955-100,quechua,qullaw,despues,1398,dry,1,1,ch'aki
 Swadesh-1955-100,quechua,qullaw,despues,1247,ear,1,1,rinri
-Swadesh-1955-100,quechua,qullaw,despues,1228,earth,1,3,allpa | hallp'a | paza
+Swadesh-1955-100,quechua,qullaw,despues,1228,earth,1,2,allpa | hallp'a
 Swadesh-1955-100,quechua,qullaw,despues,1336,eat,1,2,mikhuy | mikui
 Swadesh-1955-100,quechua,qullaw,despues,744,egg,1,1,runtu
 Swadesh-1955-100,quechua,qullaw,despues,1248,eye,1,1,ñawi
@@ -222,19 +222,19 @@ Swadesh-1955-100,quechua,qullaw,despues,323,fat (grease),1,2,wira | wiswi
 Swadesh-1955-100,quechua,qullaw,despues,1201,feather,1,4,patpa | phuru | qillqana
 Swadesh-1955-100,quechua,qullaw,despues,221,fire,1,2,nina | wila
 Swadesh-1955-100,quechua,qullaw,despues,227,fish,1,1,challwa
-Swadesh-1955-100,quechua,qullaw,despues,1441,fly,1,3,paarii | pawai | phaway
+Swadesh-1955-100,quechua,qullaw,despues,1441,fly,1,2,pawai | phaway
 Swadesh-1955-100,quechua,qullaw,despues,1301,foot,1,1,chaki
 Swadesh-1955-100,quechua,qullaw,despues,1429,*full,1,1,hunt'a
-Swadesh-1955-100,quechua,qullaw,despues,1447,give,1,3,churay | goi | quy
+Swadesh-1955-100,quechua,qullaw,despues,1447,give,1,2,churay | quy
 Swadesh-1955-100,quechua,qullaw,despues,1035,good,1,2,allin | sumaq
 Swadesh-1955-100,quechua,qullaw,despues,1425,green,1,2,q'umir | waylla
-Swadesh-1955-100,quechua,qullaw,despues,1040,hair,1,2,agza | chukcha
+Swadesh-1955-100,quechua,qullaw,despues,1040,hair,1,1,chukcha
 Swadesh-1955-100,quechua,qullaw,despues,1277,hand,1,1,maki
 Swadesh-1955-100,quechua,qullaw,despues,1256,head,1,1,uma
-Swadesh-1955-100,quechua,qullaw,despues,1408,hear,1,5,kasuy | uyarii | uyariy
-Swadesh-1955-100,quechua,qullaw,despues,1223,heart,1,2,songo | sunqu
-Swadesh-1955-100,quechua,qullaw,despues,1393,*horn,1,3,asta | wagra | waqra
-Swadesh-1955-100,quechua,qullaw,despues,1209,I,1,2,-y | ñuqa
+Swadesh-1955-100,quechua,qullaw,despues,1408,hear,1,4,kasuy | uyariy | uyay
+Swadesh-1955-100,quechua,qullaw,despues,1223,heart,1,1,sunqu
+Swadesh-1955-100,quechua,qullaw,despues,1393,*horn,1,2,asta | waqra
+Swadesh-1955-100,quechua,qullaw,despues,1209,I,1,1,ñuqa
 Swadesh-1955-100,quechua,qullaw,despues,1417,kill,1,3,sipiy | wañuchiy | wañurqachiy
 Swadesh-1955-100,quechua,qullaw,despues,1371,*knee,1,2,muqu | qunqur
 Swadesh-1955-100,quechua,qullaw,despues,1410,know,1,2,riqsiy | yachay
@@ -243,34 +243,34 @@ Swadesh-1955-100,quechua,qullaw,despues,1411,lie,0,0,
 Swadesh-1955-100,quechua,qullaw,despues,1224,liver,1,4,chilla | kipchan | kukupin
 Swadesh-1955-100,quechua,qullaw,despues,1203,long,1,2,karu kay | suni
 Swadesh-1955-100,quechua,qullaw,despues,1392,louse,1,2,itha | usa
-Swadesh-1955-100,quechua,qullaw,despues,1554,man,1,3,gari | qhari | runa
+Swadesh-1955-100,quechua,qullaw,despues,1554,man,1,2,qhari | runa
 Swadesh-1955-100,quechua,qullaw,despues,1198,many,0,0,
 Swadesh-1955-100,quechua,qullaw,despues,2615,meat (flesh),1,1,aycha
-Swadesh-1955-100,quechua,qullaw,despues,1313,*moon,1,3,gillai | gollgi | killa
-Swadesh-1955-100,quechua,qullaw,despues,639,mountain,1,4,hirka | orgo | pikchu
+Swadesh-1955-100,quechua,qullaw,despues,1313,*moon,1,1,killa
+Swadesh-1955-100,quechua,qullaw,despues,639,mountain,1,3,hirka | pikchu | urqu
 Swadesh-1955-100,quechua,qullaw,despues,674,mouth,1,2,shimi | simi
 Swadesh-1955-100,quechua,qullaw,despues,1405,name,1,3,huti | suti | sutirimana
 Swadesh-1955-100,quechua,qullaw,despues,1333,neck,1,2,kunka | kurku
-Swadesh-1955-100,quechua,qullaw,despues,1231,new,1,2,musog | musuq
-Swadesh-1955-100,quechua,qullaw,despues,1233,night,1,3,ch'isi | pagas | tuta
-Swadesh-1955-100,quechua,qullaw,despues,1221,nose,1,3,singa | sinq'a | sinqa
+Swadesh-1955-100,quechua,qullaw,despues,1231,new,1,1,musuq
+Swadesh-1955-100,quechua,qullaw,despues,1233,night,1,2,ch'isi | tuta
+Swadesh-1955-100,quechua,qullaw,despues,1221,nose,1,2,sinq'a | sinqa
 Swadesh-1955-100,quechua,qullaw,despues,1240,not,1,3,ama | ch'aqcha | mana
-Swadesh-1955-100,quechua,qullaw,despues,1493,one,1,3,huk | huq | juk
+Swadesh-1955-100,quechua,qullaw,despues,1493,one,1,2,huk | huq
 Swadesh-1955-100,quechua,qullaw,despues,683,person (human being),0,0,
 Swadesh-1955-100,quechua,qullaw,despues,156,red,1,1,puka
 Swadesh-1955-100,quechua,qullaw,despues,670,root,0,0,
 Swadesh-1955-100,quechua,qullaw,despues,1395,*round,1,1,lump'u
 Swadesh-1955-100,quechua,qullaw,despues,671,sand,1,2,aqu | t'iyu
-Swadesh-1955-100,quechua,qullaw,despues,1458,*say,1,3,nii | niy | ñiy
+Swadesh-1955-100,quechua,qullaw,despues,1458,*say,1,2,niy | ñiy
 Swadesh-1955-100,quechua,qullaw,despues,1409,see,1,2,rikay | rikuy
 Swadesh-1955-100,quechua,qullaw,despues,714,seed,1,1,muhu
 Swadesh-1955-100,quechua,qullaw,despues,1416,sit,0,0,
-Swadesh-1955-100,quechua,qullaw,despues,763,skin,1,3,gala | gara | qara
+Swadesh-1955-100,quechua,qullaw,despues,763,skin,1,1,qara
 Swadesh-1955-100,quechua,qullaw,despues,1585,sleep,1,2,puñui | puñuy
-Swadesh-1955-100,quechua,qullaw,despues,1246,small,1,7,as | ichik | juch'uy
-Swadesh-1955-100,quechua,qullaw,despues,778,smoke,1,2,q'osñe | wapsi
+Swadesh-1955-100,quechua,qullaw,despues,1246,small,1,6,as | ichik | pisi
+Swadesh-1955-100,quechua,qullaw,despues,778,smoke,1,1,wapsi
 Swadesh-1955-100,quechua,qullaw,despues,1442,stand,0,0,
-Swadesh-1955-100,quechua,qullaw,despues,1430,star,1,3,chaska | goillur | quyllur
+Swadesh-1955-100,quechua,qullaw,despues,1430,star,1,2,chaska | quyllur
 Swadesh-1955-100,quechua,qullaw,despues,857,stone,1,1,rumi
 Swadesh-1955-100,quechua,qullaw,despues,1343,sun,1,1,inti
 Swadesh-1955-100,quechua,qullaw,despues,1439,swim,1,4,wallatay | wamp'uy | wampuy
@@ -278,7 +278,7 @@ Swadesh-1955-100,quechua,qullaw,despues,1220,tail,1,1,k'aschina
 Swadesh-1955-100,quechua,qullaw,despues,78,that,1,3,chahay | chay | haqay
 Swadesh-1955-100,quechua,qullaw,despues,1214,this,1,2,intichay | kay
 Swadesh-1955-100,quechua,qullaw,despues,1215,thou,1,1,qam
-Swadesh-1955-100,quechua,qullaw,despues,1205,tongue,1,6,gallu | qallu | qhallu
+Swadesh-1955-100,quechua,qullaw,despues,1205,tongue,1,5,qallu | qhallu | rimay
 Swadesh-1955-100,quechua,qullaw,despues,1380,tooth,1,2,kilu | kiru
 Swadesh-1955-100,quechua,qullaw,despues,906,tree,1,2,mallki | sach'a
 Swadesh-1955-100,quechua,qullaw,despues,1498,two,1,2,iskai | iskay
@@ -289,7 +289,7 @@ Swadesh-1955-100,quechua,qullaw,despues,1236,what,0,0,
 Swadesh-1955-100,quechua,qullaw,despues,1335,white,1,1,yuraq
 Swadesh-1955-100,quechua,qullaw,despues,1235,who,1,1,pi
 Swadesh-1955-100,quechua,qullaw,despues,962,woman,1,1,warmi
-Swadesh-1955-100,quechua,qullaw,despues,1424,yellow,1,3,gillu | q'illu | qillu
+Swadesh-1955-100,quechua,qullaw,despues,1424,yellow,1,2,q'illu | qillu
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,98,all,1,3,llapa | llapan | tukuy
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,646,ashes,1,2,uchpa | uspha
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1204,bark,0,0,
@@ -307,7 +307,7 @@ Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1489,cloud,1,3,
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1287,cold,1,2,chiri | qasa
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1446,come,1,1,hamuy
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1494,die,1,1,wañuy
-Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,2009,dog,1,3,alkho | allqu | alqo
+Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,2009,dog,1,1,allqu
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1401,drink,1,4,machay | suq'uy | uphyay
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1398,dry,1,1,ch'aki
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1247,ear,1,1,rinri
@@ -364,8 +364,8 @@ Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,714,seed,1,1,mu
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1416,sit,0,0,
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,763,skin,1,1,qara
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1585,sleep,1,1,puñuy
-Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1246,small,1,5,as | juch'uy | pisi
-Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,778,smoke,1,2,q'osñe | wapsi
+Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1246,small,1,4,as | pisi | taksa
+Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,778,smoke,1,1,wapsi
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1442,stand,0,0,
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1430,star,1,2,chaska | quyllur
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,857,stone,1,1,rumi
@@ -375,7 +375,7 @@ Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1220,tail,1,1,k
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,78,that,1,3,chahay | chay | haqay
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1214,this,1,2,intichay | kay
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1215,thou,1,1,qam
-Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1205,tongue,1,5,gallu | qallu | qhallu
+Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1205,tongue,1,4,qallu | qhallu | rimay
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1380,tooth,1,1,kiru
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,906,tree,1,2,mallki | sach'a
 Swadesh-1955-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1498,two,1,1,iskay
@@ -586,8 +586,8 @@ Swadesh-1955-100,quechua,chanka,despues,646,ashes,1,1,uchpa
 Swadesh-1955-100,quechua,chanka,despues,1204,bark,0,0,
 Swadesh-1955-100,quechua,chanka,despues,1251,belly,1,3,kisma | pata | wiksa
 Swadesh-1955-100,quechua,chanka,despues,1202,big,1,1,hatun
-Swadesh-1955-100,quechua,chanka,despues,937,bird,1,2,pisgo | pisqu
-Swadesh-1955-100,quechua,chanka,despues,1403,bite,1,3,achaqay | kanii | kaniy
+Swadesh-1955-100,quechua,chanka,despues,937,bird,1,1,pisqu
+Swadesh-1955-100,quechua,chanka,despues,1403,bite,1,2,achaqay | kaniy
 Swadesh-1955-100,quechua,chanka,despues,163,black,1,1,yana
 Swadesh-1955-100,quechua,chanka,despues,946,blood,1,1,yawar
 Swadesh-1955-100,quechua,chanka,despues,1394,bone,1,1,tullu
@@ -595,14 +595,14 @@ Swadesh-1955-100,quechua,chanka,despues,1402,*breast,1,1,ñuñu
 Swadesh-1955-100,quechua,chanka,despues,2102,burn,1,8,kanachiy | kañachiy | kañay
 Swadesh-1955-100,quechua,chanka,despues,72,*claw,1,1,sillu
 Swadesh-1955-100,quechua,chanka,despues,1489,cloud,1,1,puyu
-Swadesh-1955-100,quechua,chanka,despues,1287,cold,1,2,chiri | gasa
-Swadesh-1955-100,quechua,chanka,despues,1446,come,1,3,hamui | hamuy | jamuy
+Swadesh-1955-100,quechua,chanka,despues,1287,cold,1,1,chiri
+Swadesh-1955-100,quechua,chanka,despues,1446,come,1,2,hamui | hamuy
 Swadesh-1955-100,quechua,chanka,despues,1494,die,1,1,wañuy
-Swadesh-1955-100,quechua,chanka,despues,2009,dog,1,2,allgo | allqu
+Swadesh-1955-100,quechua,chanka,despues,2009,dog,1,1,allqu
 Swadesh-1955-100,quechua,chanka,despues,1401,drink,1,2,machay | upyay
 Swadesh-1955-100,quechua,chanka,despues,1398,dry,0,0,
 Swadesh-1955-100,quechua,chanka,despues,1247,ear,1,1,rinri
-Swadesh-1955-100,quechua,chanka,despues,1228,earth,1,2,allpa | paza
+Swadesh-1955-100,quechua,chanka,despues,1228,earth,1,1,allpa
 Swadesh-1955-100,quechua,chanka,despues,1336,eat,1,1,mikui
 Swadesh-1955-100,quechua,chanka,despues,744,egg,1,1,runtu
 Swadesh-1955-100,quechua,chanka,despues,1248,eye,1,1,ñawi
@@ -610,19 +610,19 @@ Swadesh-1955-100,quechua,chanka,despues,323,fat (grease),1,1,wira
 Swadesh-1955-100,quechua,chanka,despues,1201,feather,1,2,patpa | qillqana
 Swadesh-1955-100,quechua,chanka,despues,221,fire,1,2,nina | wila
 Swadesh-1955-100,quechua,chanka,despues,227,fish,1,1,challwa
-Swadesh-1955-100,quechua,chanka,despues,1441,fly,1,2,paarii | pawai
+Swadesh-1955-100,quechua,chanka,despues,1441,fly,1,1,pawai
 Swadesh-1955-100,quechua,chanka,despues,1301,foot,1,1,chaki
 Swadesh-1955-100,quechua,chanka,despues,1429,*full,0,0,
-Swadesh-1955-100,quechua,chanka,despues,1447,give,1,2,churay | goi
+Swadesh-1955-100,quechua,chanka,despues,1447,give,1,1,churay
 Swadesh-1955-100,quechua,chanka,despues,1035,good,1,3,alli | allin | sumaq
 Swadesh-1955-100,quechua,chanka,despues,1425,green,0,0,
-Swadesh-1955-100,quechua,chanka,despues,1040,hair,1,2,agza | chukcha
+Swadesh-1955-100,quechua,chanka,despues,1040,hair,1,1,chukcha
 Swadesh-1955-100,quechua,chanka,despues,1277,hand,1,1,maki
 Swadesh-1955-100,quechua,chanka,despues,1256,head,1,1,uma
-Swadesh-1955-100,quechua,chanka,despues,1408,hear,1,4,uyarii | uyariy | uyay
-Swadesh-1955-100,quechua,chanka,despues,1223,heart,1,2,songo | sunqu
-Swadesh-1955-100,quechua,chanka,despues,1393,*horn,1,2,wagra | waqra
-Swadesh-1955-100,quechua,chanka,despues,1209,I,1,2,-y | ñuqa
+Swadesh-1955-100,quechua,chanka,despues,1408,hear,1,3,uyariy | uyay | wiyai
+Swadesh-1955-100,quechua,chanka,despues,1223,heart,1,1,sunqu
+Swadesh-1955-100,quechua,chanka,despues,1393,*horn,1,1,waqra
+Swadesh-1955-100,quechua,chanka,despues,1209,I,1,1,ñuqa
 Swadesh-1955-100,quechua,chanka,despues,1417,kill,1,2,wañuchiy | wañurqachiy
 Swadesh-1955-100,quechua,chanka,despues,1371,*knee,1,1,muqu
 Swadesh-1955-100,quechua,chanka,despues,1410,know,1,2,riqsiy | yachay
@@ -631,34 +631,34 @@ Swadesh-1955-100,quechua,chanka,despues,1411,lie,0,0,
 Swadesh-1955-100,quechua,chanka,despues,1224,liver,1,1,ñatin
 Swadesh-1955-100,quechua,chanka,despues,1203,long,1,1,karu kay
 Swadesh-1955-100,quechua,chanka,despues,1392,louse,1,1,usa
-Swadesh-1955-100,quechua,chanka,despues,1554,man,1,2,gari | runa
+Swadesh-1955-100,quechua,chanka,despues,1554,man,1,1,runa
 Swadesh-1955-100,quechua,chanka,despues,1198,many,0,0,
 Swadesh-1955-100,quechua,chanka,despues,2615,meat (flesh),1,1,aycha
-Swadesh-1955-100,quechua,chanka,despues,1313,*moon,1,3,gillai | gollgi | killa
-Swadesh-1955-100,quechua,chanka,despues,639,mountain,1,3,hirka | orgo | urqu
+Swadesh-1955-100,quechua,chanka,despues,1313,*moon,1,1,killa
+Swadesh-1955-100,quechua,chanka,despues,639,mountain,1,2,hirka | urqu
 Swadesh-1955-100,quechua,chanka,despues,674,mouth,1,2,shimi | simi
 Swadesh-1955-100,quechua,chanka,despues,1405,name,1,3,huti | suti | sutirimana
 Swadesh-1955-100,quechua,chanka,despues,1333,neck,1,2,kunka | kurku
-Swadesh-1955-100,quechua,chanka,despues,1231,new,1,2,musog | musuq
-Swadesh-1955-100,quechua,chanka,despues,1233,night,1,2,pagas | tuta
-Swadesh-1955-100,quechua,chanka,despues,1221,nose,1,2,singa | sinqa
+Swadesh-1955-100,quechua,chanka,despues,1231,new,1,1,musuq
+Swadesh-1955-100,quechua,chanka,despues,1233,night,1,1,tuta
+Swadesh-1955-100,quechua,chanka,despues,1221,nose,1,1,sinqa
 Swadesh-1955-100,quechua,chanka,despues,1240,not,1,2,ama | mana
-Swadesh-1955-100,quechua,chanka,despues,1493,one,1,3,huk | huq | juk
+Swadesh-1955-100,quechua,chanka,despues,1493,one,1,2,huk | huq
 Swadesh-1955-100,quechua,chanka,despues,683,person (human being),0,0,
 Swadesh-1955-100,quechua,chanka,despues,156,red,1,1,puka
 Swadesh-1955-100,quechua,chanka,despues,670,root,0,0,
 Swadesh-1955-100,quechua,chanka,despues,1395,*round,0,0,
 Swadesh-1955-100,quechua,chanka,despues,671,sand,1,2,aqu | tiyu
-Swadesh-1955-100,quechua,chanka,despues,1458,*say,1,2,nii | niy
+Swadesh-1955-100,quechua,chanka,despues,1458,*say,1,1,niy
 Swadesh-1955-100,quechua,chanka,despues,1409,see,1,2,rikay | rikuy
 Swadesh-1955-100,quechua,chanka,despues,714,seed,0,0,
 Swadesh-1955-100,quechua,chanka,despues,1416,sit,0,0,
-Swadesh-1955-100,quechua,chanka,despues,763,skin,1,3,gala | gara | qara
+Swadesh-1955-100,quechua,chanka,despues,763,skin,1,1,qara
 Swadesh-1955-100,quechua,chanka,despues,1585,sleep,1,2,puñui | puñuy
 Swadesh-1955-100,quechua,chanka,despues,1246,small,1,7,as | aslla | ichik
 Swadesh-1955-100,quechua,chanka,despues,778,smoke,1,2,qusñi | wapsi
 Swadesh-1955-100,quechua,chanka,despues,1442,stand,0,0,
-Swadesh-1955-100,quechua,chanka,despues,1430,star,1,3,chaska | goillur | quyllur
+Swadesh-1955-100,quechua,chanka,despues,1430,star,1,2,chaska | quyllur
 Swadesh-1955-100,quechua,chanka,despues,857,stone,1,1,rumi
 Swadesh-1955-100,quechua,chanka,despues,1343,sun,1,1,inti
 Swadesh-1955-100,quechua,chanka,despues,1439,swim,1,1,wampuy
@@ -677,7 +677,7 @@ Swadesh-1955-100,quechua,chanka,despues,1236,what,0,0,
 Swadesh-1955-100,quechua,chanka,despues,1335,white,1,1,yuraq
 Swadesh-1955-100,quechua,chanka,despues,1235,who,1,1,pi
 Swadesh-1955-100,quechua,chanka,despues,962,woman,1,1,warmi
-Swadesh-1955-100,quechua,chanka,despues,1424,yellow,1,2,gillu | qillu
+Swadesh-1955-100,quechua,chanka,despues,1424,yellow,1,1,qillu
 Swadesh-1955-100,quechua,chanka,despues_sin_comun_no_atestiguado,98,all,1,3,llapa | llapan | tukuy
 Swadesh-1955-100,quechua,chanka,despues_sin_comun_no_atestiguado,646,ashes,1,1,uchpa
 Swadesh-1955-100,quechua,chanka,despues_sin_comun_no_atestiguado,1204,bark,0,0,
@@ -1710,60 +1710,60 @@ Tadmor-2009-100,quechua,qullaw,antes_solo_fuentes_abiertas,1430,star,0,0,
 Tadmor-2009-100,quechua,qullaw,antes_solo_fuentes_abiertas,1460,in,0,0,
 Tadmor-2009-100,quechua,qullaw,antes_solo_fuentes_abiertas,1884,hard,1,2,anaq | sallu
 Tadmor-2009-100,quechua,qullaw,despues,221,fire,1,2,nina | wila
-Tadmor-2009-100,quechua,qullaw,despues,1221,nose,1,3,singa | sinq'a | sinqa
+Tadmor-2009-100,quechua,qullaw,despues,1221,nose,1,2,sinq'a | sinqa
 Tadmor-2009-100,quechua,qullaw,despues,948,water,1,2,unu | yaku
 Tadmor-2009-100,quechua,qullaw,despues,674,mouth,1,2,shimi | simi
-Tadmor-2009-100,quechua,qullaw,despues,1205,tongue,1,6,gallu | qallu | qhallu
+Tadmor-2009-100,quechua,qullaw,despues,1205,tongue,1,5,qallu | qhallu | rimay
 Tadmor-2009-100,quechua,qullaw,despues,946,blood,1,1,yawar
 Tadmor-2009-100,quechua,qullaw,despues,1394,bone,1,1,tullu
 Tadmor-2009-100,quechua,qullaw,despues,1215,2sg pronoun,1,1,qam
 Tadmor-2009-100,quechua,qullaw,despues,670,root,0,0,
-Tadmor-2009-100,quechua,qullaw,despues,1446,to come,1,3,hamui | hamuy | jamuy
+Tadmor-2009-100,quechua,qullaw,despues,1446,to come,1,2,hamui | hamuy
 Tadmor-2009-100,quechua,qullaw,despues,1402,breast,1,1,ñuñu
 Tadmor-2009-100,quechua,qullaw,despues,658,rain,1,2,para | tamya
-Tadmor-2009-100,quechua,qullaw,despues,1209,1sg pronoun,1,2,-y | ñuqa
+Tadmor-2009-100,quechua,qullaw,despues,1209,1sg pronoun,1,1,ñuqa
 Tadmor-2009-100,quechua,qullaw,despues,1405,name,1,3,huti | suti | sutirimana
 Tadmor-2009-100,quechua,qullaw,despues,1392,louse,1,2,itha | usa
 Tadmor-2009-100,quechua,qullaw,despues,1257,wing,1,1,raphara
 Tadmor-2009-100,quechua,qullaw,despues,2615,flesh/meat,1,1,aycha
 Tadmor-2009-100,quechua,qullaw,despues,1504,fly,1,2,ch'uspi | chuspi
-Tadmor-2009-100,quechua,qullaw,despues,1233,night,1,3,ch'isi | pagas | tuta
+Tadmor-2009-100,quechua,qullaw,despues,1233,night,1,2,ch'isi | tuta
 Tadmor-2009-100,quechua,qullaw,despues,1247,ear,1,1,rinri
 Tadmor-2009-100,quechua,qullaw,despues,1333,neck,1,2,kunka | kurku
 Tadmor-2009-100,quechua,qullaw,despues,1406,far,1,1,karu
 Tadmor-2009-100,quechua,qullaw,despues,1252,house,1,2,wasi | wasikuna
-Tadmor-2009-100,quechua,qullaw,despues,1458,to say,1,3,nii | niy | ñiy
+Tadmor-2009-100,quechua,qullaw,despues,1458,to say,1,2,niy | ñiy
 Tadmor-2009-100,quechua,qullaw,despues,1380,tooth,1,2,kilu | kiru
-Tadmor-2009-100,quechua,qullaw,despues,1040,hair,1,2,agza | chukcha
+Tadmor-2009-100,quechua,qullaw,despues,1040,hair,1,1,chukcha
 Tadmor-2009-100,quechua,qullaw,despues,1202,big,1,1,hatun
-Tadmor-2009-100,quechua,qullaw,despues,1493,one,1,3,huk | huq | juk
+Tadmor-2009-100,quechua,qullaw,despues,1493,one,1,2,huk | huq
 Tadmor-2009-100,quechua,qullaw,despues,1235,who?,1,1,pi
-Tadmor-2009-100,quechua,qullaw,despues,1393,horn,1,3,asta | wagra | waqra
+Tadmor-2009-100,quechua,qullaw,despues,1393,horn,1,2,asta | waqra
 Tadmor-2009-100,quechua,qullaw,despues,1214,this,1,2,intichay | kay
 Tadmor-2009-100,quechua,qullaw,despues,227,fish,1,1,challwa
 Tadmor-2009-100,quechua,qullaw,despues,1401,to drink,1,4,machay | suq'uy | uphyay
 Tadmor-2009-100,quechua,qullaw,despues,163,black,1,1,yana
 Tadmor-2009-100,quechua,qullaw,despues,1838,navel,1,3,pupu | puputi | puti
 Tadmor-2009-100,quechua,qullaw,despues,1442,to stand,0,0,
-Tadmor-2009-100,quechua,qullaw,despues,1403,to bite,1,7,achaqay | kanii | kaniy
-Tadmor-2009-100,quechua,qullaw,despues,1291,back,1,2,wagta | wasa
+Tadmor-2009-100,quechua,qullaw,despues,1403,to bite,1,6,achaqay | kaniy | khachuy
+Tadmor-2009-100,quechua,qullaw,despues,1291,back,1,1,wasa
 Tadmor-2009-100,quechua,qullaw,despues,960,wind,1,2,waira | wayra
-Tadmor-2009-100,quechua,qullaw,despues,778,smoke,1,2,q'osñe | wapsi
+Tadmor-2009-100,quechua,qullaw,despues,778,smoke,1,1,wapsi
 Tadmor-2009-100,quechua,qullaw,despues,1236,what?,0,0,
 Tadmor-2009-100,quechua,qullaw,despues,744,egg,1,1,runtu
-Tadmor-2009-100,quechua,qullaw,despues,1447,to give,1,3,churay | goi | quy
-Tadmor-2009-100,quechua,qullaw,despues,1231,new,1,2,musog | musuq
+Tadmor-2009-100,quechua,qullaw,despues,1447,to give,1,2,churay | quy
+Tadmor-2009-100,quechua,qullaw,despues,1231,new,1,1,musuq
 Tadmor-2009-100,quechua,qullaw,despues,1240,not,1,3,ama | ch'aqcha | mana
 Tadmor-2009-100,quechua,qullaw,despues,1035,good,1,2,allin | sumaq
 Tadmor-2009-100,quechua,qullaw,despues,1371,knee,1,2,muqu | qunqur
 Tadmor-2009-100,quechua,qullaw,despues,671,sand,1,2,aqu | t'iyu
-Tadmor-2009-100,quechua,qullaw,despues,1408,to hear,1,5,kasuy | uyarii | uyariy
-Tadmor-2009-100,quechua,qullaw,despues,1228,soil,1,3,allpa | hallp'a | paza
+Tadmor-2009-100,quechua,qullaw,despues,1408,to hear,1,4,kasuy | uyariy | uyay
+Tadmor-2009-100,quechua,qullaw,despues,1228,soil,1,2,allpa | hallp'a
 Tadmor-2009-100,quechua,qullaw,despues,628,leaf,1,2,llaqhi | raphi
 Tadmor-2009-100,quechua,qullaw,despues,156,red,1,1,puka
 Tadmor-2009-100,quechua,qullaw,despues,1224,liver,1,4,chilla | kipchan | kukupin
-Tadmor-2009-100,quechua,qullaw,despues,763,skin/hide,1,3,gala | gara | qara
-Tadmor-2009-100,quechua,qullaw,despues,1421,to suck,1,3,ch'unqay | chuchuy | sogoi
+Tadmor-2009-100,quechua,qullaw,despues,763,skin/hide,1,1,qara
+Tadmor-2009-100,quechua,qullaw,despues,1421,to suck,1,2,ch'unqay | chuchuy
 Tadmor-2009-100,quechua,qullaw,despues,587,ant,1,2,sikimira | sisi
 Tadmor-2009-100,quechua,qullaw,despues,1210,heavy,1,1,llasaq
 Tadmor-2009-100,quechua,qullaw,despues,1229,old,1,5,aukin | awki | machu
@@ -1776,23 +1776,23 @@ Tadmor-2009-100,quechua,qullaw,despues,1280,to fall,1,3,ishkiy | urmai | urmay
 Tadmor-2009-100,quechua,qullaw,despues,1248,eye,1,1,ñawi
 Tadmor-2009-100,quechua,qullaw,despues,646,ash,1,2,uchpa | uspha
 Tadmor-2009-100,quechua,qullaw,despues,1220,tail,1,1,k'aschina
-Tadmor-2009-100,quechua,qullaw,despues,2009,dog,1,4,alkho | allgo | allqu
+Tadmor-2009-100,quechua,qullaw,despues,2009,dog,1,1,allqu
 Tadmor-2009-100,quechua,qullaw,despues,1917,to tie,1,2,watai | watay
 Tadmor-2009-100,quechua,qullaw,despues,1409,to see,1,2,rikay | rikuy
 Tadmor-2009-100,quechua,qullaw,despues,1218,rope,1,2,anku | watu
 Tadmor-2009-100,quechua,qullaw,despues,1388,shade/shadow,1,2,llanthu | llantu
-Tadmor-2009-100,quechua,qullaw,despues,937,bird,1,2,pisgo | pisqu
+Tadmor-2009-100,quechua,qullaw,despues,937,bird,1,1,pisqu
 Tadmor-2009-100,quechua,qullaw,despues,1274,salt,1,1,kachi
-Tadmor-2009-100,quechua,qullaw,despues,1246,small,1,7,as | ichik | juch'uy
+Tadmor-2009-100,quechua,qullaw,despues,1246,small,1,6,as | ichik | pisi
 Tadmor-2009-100,quechua,qullaw,despues,1243,wide,0,0,
-Tadmor-2009-100,quechua,qullaw,despues,1430,star,1,3,chaska | goillur | quyllur
+Tadmor-2009-100,quechua,qullaw,despues,1430,star,1,2,chaska | quyllur
 Tadmor-2009-100,quechua,qullaw,despues,1460,in,0,0,
 Tadmor-2009-100,quechua,qullaw,despues,1884,hard,1,3,anaq | rumi | sallu
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,221,fire,1,1,nina
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1221,nose,1,2,sinq'a | sinqa
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,948,water,1,2,unu | yaku
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,674,mouth,1,1,simi
-Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1205,tongue,1,5,gallu | qallu | qhallu
+Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1205,tongue,1,4,qallu | qhallu | rimay
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,946,blood,1,1,yawar
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1394,bone,1,1,tullu
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1215,2sg pronoun,1,1,qam
@@ -1827,7 +1827,7 @@ Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1442,to stand,0,
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1403,to bite,1,5,kaniy | khachuy | khamuy
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1291,back,1,1,wasa
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,960,wind,1,1,wayra
-Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,778,smoke,1,2,q'osñe | wapsi
+Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,778,smoke,1,1,wapsi
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1236,what?,0,0,
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,744,egg,1,1,runtu
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1447,to give,1,2,churay | quy
@@ -1855,14 +1855,14 @@ Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1280,to fall,1,1
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1248,eye,1,1,ñawi
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,646,ash,1,2,uchpa | uspha
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1220,tail,1,1,k'aschina
-Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,2009,dog,1,3,alkho | allqu | alqo
+Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,2009,dog,1,1,allqu
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1917,to tie,1,1,watay
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1409,to see,1,1,rikuy
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1218,rope,0,0,
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1388,shade/shadow,1,2,llanthu | llantu
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,937,bird,1,1,pisqu
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1274,salt,1,1,kachi
-Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1246,small,1,5,as | juch'uy | pisi
+Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1246,small,1,4,as | pisi | taksa
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1243,wide,0,0,
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1430,star,1,2,chaska | quyllur
 Tadmor-2009-100,quechua,qullaw,despues_sin_comun_no_atestiguado,1460,in,0,0,
@@ -2026,7 +2026,7 @@ Tadmor-2009-100,quechua,chanka,antes_solo_fuentes_abiertas,1430,star,0,0,
 Tadmor-2009-100,quechua,chanka,antes_solo_fuentes_abiertas,1460,in,0,0,
 Tadmor-2009-100,quechua,chanka,antes_solo_fuentes_abiertas,1884,hard,0,0,
 Tadmor-2009-100,quechua,chanka,despues,221,fire,1,2,nina | wila
-Tadmor-2009-100,quechua,chanka,despues,1221,nose,1,2,singa | sinqa
+Tadmor-2009-100,quechua,chanka,despues,1221,nose,1,1,sinqa
 Tadmor-2009-100,quechua,chanka,despues,948,water,1,2,unu | yaku
 Tadmor-2009-100,quechua,chanka,despues,674,mouth,1,2,shimi | simi
 Tadmor-2009-100,quechua,chanka,despues,1205,tongue,1,4,qallu | rimay | shimi
@@ -2034,52 +2034,52 @@ Tadmor-2009-100,quechua,chanka,despues,946,blood,1,1,yawar
 Tadmor-2009-100,quechua,chanka,despues,1394,bone,1,1,tullu
 Tadmor-2009-100,quechua,chanka,despues,1215,2sg pronoun,1,1,qam
 Tadmor-2009-100,quechua,chanka,despues,670,root,0,0,
-Tadmor-2009-100,quechua,chanka,despues,1446,to come,1,3,hamui | hamuy | jamuy
+Tadmor-2009-100,quechua,chanka,despues,1446,to come,1,2,hamui | hamuy
 Tadmor-2009-100,quechua,chanka,despues,1402,breast,1,1,ñuñu
 Tadmor-2009-100,quechua,chanka,despues,658,rain,1,2,para | tamya
-Tadmor-2009-100,quechua,chanka,despues,1209,1sg pronoun,1,2,-y | ñuqa
+Tadmor-2009-100,quechua,chanka,despues,1209,1sg pronoun,1,1,ñuqa
 Tadmor-2009-100,quechua,chanka,despues,1405,name,1,3,huti | suti | sutirimana
 Tadmor-2009-100,quechua,chanka,despues,1392,louse,1,1,usa
 Tadmor-2009-100,quechua,chanka,despues,1257,wing,0,0,
 Tadmor-2009-100,quechua,chanka,despues,2615,flesh/meat,1,1,aycha
 Tadmor-2009-100,quechua,chanka,despues,1504,fly,0,0,
-Tadmor-2009-100,quechua,chanka,despues,1233,night,1,2,pagas | tuta
+Tadmor-2009-100,quechua,chanka,despues,1233,night,1,1,tuta
 Tadmor-2009-100,quechua,chanka,despues,1247,ear,1,1,rinri
 Tadmor-2009-100,quechua,chanka,despues,1333,neck,1,2,kunka | kurku
 Tadmor-2009-100,quechua,chanka,despues,1406,far,1,1,karu
 Tadmor-2009-100,quechua,chanka,despues,1252,house,1,2,wasi | wasikuna
-Tadmor-2009-100,quechua,chanka,despues,1458,to say,1,2,nii | niy
+Tadmor-2009-100,quechua,chanka,despues,1458,to say,1,1,niy
 Tadmor-2009-100,quechua,chanka,despues,1380,tooth,1,2,kilu | kiru
-Tadmor-2009-100,quechua,chanka,despues,1040,hair,1,2,agza | chukcha
+Tadmor-2009-100,quechua,chanka,despues,1040,hair,1,1,chukcha
 Tadmor-2009-100,quechua,chanka,despues,1202,big,1,1,hatun
-Tadmor-2009-100,quechua,chanka,despues,1493,one,1,3,huk | huq | juk
+Tadmor-2009-100,quechua,chanka,despues,1493,one,1,2,huk | huq
 Tadmor-2009-100,quechua,chanka,despues,1235,who?,1,1,pi
-Tadmor-2009-100,quechua,chanka,despues,1393,horn,1,2,wagra | waqra
+Tadmor-2009-100,quechua,chanka,despues,1393,horn,1,1,waqra
 Tadmor-2009-100,quechua,chanka,despues,1214,this,1,1,kay
 Tadmor-2009-100,quechua,chanka,despues,227,fish,1,1,challwa
 Tadmor-2009-100,quechua,chanka,despues,1401,to drink,1,2,machay | upyay
 Tadmor-2009-100,quechua,chanka,despues,163,black,1,1,yana
 Tadmor-2009-100,quechua,chanka,despues,1838,navel,1,3,pupu | puputi | puti
 Tadmor-2009-100,quechua,chanka,despues,1442,to stand,0,0,
-Tadmor-2009-100,quechua,chanka,despues,1403,to bite,1,3,achaqay | kanii | kaniy
-Tadmor-2009-100,quechua,chanka,despues,1291,back,1,2,wagta | wasa
+Tadmor-2009-100,quechua,chanka,despues,1403,to bite,1,2,achaqay | kaniy
+Tadmor-2009-100,quechua,chanka,despues,1291,back,1,1,wasa
 Tadmor-2009-100,quechua,chanka,despues,960,wind,1,2,waira | wayra
 Tadmor-2009-100,quechua,chanka,despues,778,smoke,1,2,qusñi | wapsi
 Tadmor-2009-100,quechua,chanka,despues,1236,what?,0,0,
 Tadmor-2009-100,quechua,chanka,despues,744,egg,1,1,runtu
-Tadmor-2009-100,quechua,chanka,despues,1447,to give,1,2,churay | goi
-Tadmor-2009-100,quechua,chanka,despues,1231,new,1,2,musog | musuq
+Tadmor-2009-100,quechua,chanka,despues,1447,to give,1,1,churay
+Tadmor-2009-100,quechua,chanka,despues,1231,new,1,1,musuq
 Tadmor-2009-100,quechua,chanka,despues,1240,not,1,2,ama | mana
 Tadmor-2009-100,quechua,chanka,despues,1035,good,1,3,alli | allin | sumaq
 Tadmor-2009-100,quechua,chanka,despues,1371,knee,1,1,muqu
 Tadmor-2009-100,quechua,chanka,despues,671,sand,1,2,aqu | tiyu
-Tadmor-2009-100,quechua,chanka,despues,1408,to hear,1,4,uyarii | uyariy | uyay
-Tadmor-2009-100,quechua,chanka,despues,1228,soil,1,2,allpa | paza
+Tadmor-2009-100,quechua,chanka,despues,1408,to hear,1,3,uyariy | uyay | wiyai
+Tadmor-2009-100,quechua,chanka,despues,1228,soil,1,1,allpa
 Tadmor-2009-100,quechua,chanka,despues,628,leaf,0,0,
 Tadmor-2009-100,quechua,chanka,despues,156,red,1,1,puka
 Tadmor-2009-100,quechua,chanka,despues,1224,liver,1,1,ñatin
-Tadmor-2009-100,quechua,chanka,despues,763,skin/hide,1,3,gala | gara | qara
-Tadmor-2009-100,quechua,chanka,despues,1421,to suck,1,2,chuchuy | sogoi
+Tadmor-2009-100,quechua,chanka,despues,763,skin/hide,1,1,qara
+Tadmor-2009-100,quechua,chanka,despues,1421,to suck,1,1,chuchuy
 Tadmor-2009-100,quechua,chanka,despues,587,ant,0,0,
 Tadmor-2009-100,quechua,chanka,despues,1210,heavy,1,1,llasaq
 Tadmor-2009-100,quechua,chanka,despues,1229,old,1,4,aukin | awki | machu
@@ -2092,16 +2092,16 @@ Tadmor-2009-100,quechua,chanka,despues,1280,to fall,1,3,ishkiy | urmai | urmay
 Tadmor-2009-100,quechua,chanka,despues,1248,eye,1,1,ñawi
 Tadmor-2009-100,quechua,chanka,despues,646,ash,1,1,uchpa
 Tadmor-2009-100,quechua,chanka,despues,1220,tail,0,0,
-Tadmor-2009-100,quechua,chanka,despues,2009,dog,1,2,allgo | allqu
+Tadmor-2009-100,quechua,chanka,despues,2009,dog,1,1,allqu
 Tadmor-2009-100,quechua,chanka,despues,1917,to tie,1,3,arwiy | watai | watay
 Tadmor-2009-100,quechua,chanka,despues,1409,to see,1,2,rikay | rikuy
 Tadmor-2009-100,quechua,chanka,despues,1218,rope,1,2,anku | watu
 Tadmor-2009-100,quechua,chanka,despues,1388,shade/shadow,1,1,llantu
-Tadmor-2009-100,quechua,chanka,despues,937,bird,1,2,pisgo | pisqu
+Tadmor-2009-100,quechua,chanka,despues,937,bird,1,1,pisqu
 Tadmor-2009-100,quechua,chanka,despues,1274,salt,1,1,kachi
 Tadmor-2009-100,quechua,chanka,despues,1246,small,1,7,as | aslla | ichik
 Tadmor-2009-100,quechua,chanka,despues,1243,wide,0,0,
-Tadmor-2009-100,quechua,chanka,despues,1430,star,1,3,chaska | goillur | quyllur
+Tadmor-2009-100,quechua,chanka,despues,1430,star,1,2,chaska | quyllur
 Tadmor-2009-100,quechua,chanka,despues,1460,in,0,0,
 Tadmor-2009-100,quechua,chanka,despues,1884,hard,1,1,rumi
 Tadmor-2009-100,quechua,chanka,despues_sin_comun_no_atestiguado,221,fire,1,1,nina
@@ -3171,32 +3171,32 @@ Swadesh-1952-200,quechua,qullaw,despues,98,all (of a number),1,3,llapa | llapan 
 Swadesh-1952-200,quechua,qullaw,despues,619,animal,1,1,uywa
 Swadesh-1952-200,quechua,qullaw,despues,646,ashes,1,2,uchpa | uspha
 Swadesh-1952-200,quechua,qullaw,despues,1461,at,0,0,
-Swadesh-1952-200,quechua,qullaw,despues,1291,back (person's),1,2,wagta | wasa
+Swadesh-1952-200,quechua,qullaw,despues,1291,back (person's),1,1,wasa
 Swadesh-1952-200,quechua,qullaw,despues,1292,bad (deleterious or unsuitable),1,4,atiruna | mana allin | millay
 Swadesh-1952-200,quechua,qullaw,despues,1204,bark,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,1251,belly,1,4,kisma | pach'a | pata
 Swadesh-1952-200,quechua,qullaw,despues,1202,big,1,1,hatun
-Swadesh-1952-200,quechua,qullaw,despues,937,bird,1,2,pisgo | pisqu
-Swadesh-1952-200,quechua,qullaw,despues,1403,to bite,1,7,achaqay | kanii | kaniy
+Swadesh-1952-200,quechua,qullaw,despues,937,bird,1,1,pisqu
+Swadesh-1952-200,quechua,qullaw,despues,1403,to bite,1,6,achaqay | kaniy | khachuy
 Swadesh-1952-200,quechua,qullaw,despues,163,black,1,1,yana
 Swadesh-1952-200,quechua,qullaw,despues,946,blood,1,1,yawar
 Swadesh-1952-200,quechua,qullaw,despues,175,to blow (of wind),1,2,phukuy | wayray
 Swadesh-1952-200,quechua,qullaw,despues,1394,bone,1,1,tullu
 Swadesh-1952-200,quechua,qullaw,despues,1304,child (young person rather than as relationship term),1,5,hirq'i | irqi | qhari warma
 Swadesh-1952-200,quechua,qullaw,despues,1489,cloud,1,3,phuyu | pukutay | puyu
-Swadesh-1952-200,quechua,qullaw,despues,1446,to come,1,3,hamui | hamuy | jamuy
+Swadesh-1952-200,quechua,qullaw,despues,1446,to come,1,2,hamui | hamuy
 Swadesh-1952-200,quechua,qullaw,despues,1432,to cut,1,7,k'apakuy | khuchuy | kuchurapuy
-Swadesh-1952-200,quechua,qullaw,despues,1225,day (opposite of night rather than time measure),1,3,hunag | p'unchaw | p'unchay
+Swadesh-1952-200,quechua,qullaw,despues,1225,day (opposite of night rather than time measure),1,2,p'unchaw | p'unchay
 Swadesh-1952-200,quechua,qullaw,despues,1494,to die,1,1,wañuy
 Swadesh-1952-200,quechua,qullaw,despues,1418,to dig,1,4,allay | haratay | lampay
-Swadesh-1952-200,quechua,qullaw,despues,1230,dirty,1,4,ch'ichi | ganra | mapa
-Swadesh-1952-200,quechua,qullaw,despues,2009,dog,1,4,alkho | allgo | allqu
+Swadesh-1952-200,quechua,qullaw,despues,1230,dirty,1,3,ch'ichi | mapa | saqra
+Swadesh-1952-200,quechua,qullaw,despues,2009,dog,1,1,allqu
 Swadesh-1952-200,quechua,qullaw,despues,1401,to drink,1,4,machay | suq'uy | uphyay
 Swadesh-1952-200,quechua,qullaw,despues,1398,dry (substance),1,1,ch'aki
 Swadesh-1952-200,quechua,qullaw,despues,379,dull (knife),0,0,
 Swadesh-1952-200,quechua,qullaw,despues,2,dust,1,1,allpa
 Swadesh-1952-200,quechua,qullaw,despues,1247,ear,1,1,rinri
-Swadesh-1952-200,quechua,qullaw,despues,1228,earth (soil),1,3,allpa | hallp'a | paza
+Swadesh-1952-200,quechua,qullaw,despues,1228,earth (soil),1,2,allpa | hallp'a
 Swadesh-1952-200,quechua,qullaw,despues,1336,to eat,1,2,mikhuy | mikui
 Swadesh-1952-200,quechua,qullaw,despues,744,egg,1,1,runtu
 Swadesh-1952-200,quechua,qullaw,despues,1248,eye,1,1,ñawi
@@ -3204,41 +3204,41 @@ Swadesh-1952-200,quechua,qullaw,despues,1280,to fall (drop rather than topple),1
 Swadesh-1952-200,quechua,qullaw,despues,1406,far,1,1,karu
 Swadesh-1952-200,quechua,qullaw,despues,323,fat (organic substance),1,2,wira | wiswi
 Swadesh-1952-200,quechua,qullaw,despues,1217,father,1,2,tata | tayta
-Swadesh-1952-200,quechua,qullaw,despues,1419,to fear,1,3,manchachikuy | manzai | may
+Swadesh-1952-200,quechua,qullaw,despues,1419,to fear,1,2,manchachikuy | may
 Swadesh-1952-200,quechua,qullaw,despues,1201,feather (larger feathers rather than down),1,4,patpa | phuru | qillqana
 Swadesh-1952-200,quechua,qullaw,despues,1242,few,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,221,fire,1,2,nina | wila
 Swadesh-1952-200,quechua,qullaw,despues,227,fish,1,1,challwa
-Swadesh-1952-200,quechua,qullaw,despues,493,five,1,5,phichqa | phisqa | pichka
+Swadesh-1952-200,quechua,qullaw,despues,493,five,1,4,phichqa | phisqa | pichka
 Swadesh-1952-200,quechua,qullaw,despues,2003,to flow,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,239,flower,1,6,ayna | sisa | t'ika
-Swadesh-1952-200,quechua,qullaw,despues,1441,to fly,1,3,paarii | pawai | phaway
+Swadesh-1952-200,quechua,qullaw,despues,1441,to fly,1,2,pawai | phaway
 Swadesh-1952-200,quechua,qullaw,despues,249,fog,1,1,pachaphuyu
 Swadesh-1952-200,quechua,qullaw,despues,1301,foot,1,1,chaki
 Swadesh-1952-200,quechua,qullaw,despues,1500,four,1,1,tawa
 Swadesh-1952-200,quechua,qullaw,despues,1431,to freeze,1,2,chiriy | qasay
-Swadesh-1952-200,quechua,qullaw,despues,1447,to give,1,3,churay | goi | quy
+Swadesh-1952-200,quechua,qullaw,despues,1447,to give,1,2,churay | quy
 Swadesh-1952-200,quechua,qullaw,despues,1035,good,1,2,allin | sumaq
-Swadesh-1952-200,quechua,qullaw,despues,606,grass,1,3,q'achu | qora | qura
+Swadesh-1952-200,quechua,qullaw,despues,606,grass,1,2,q'achu | qura
 Swadesh-1952-200,quechua,qullaw,despues,1425,green,1,2,q'umir | waylla
-Swadesh-1952-200,quechua,qullaw,despues,1040,hair,1,2,agza | chukcha
+Swadesh-1952-200,quechua,qullaw,despues,1040,hair,1,1,chukcha
 Swadesh-1952-200,quechua,qullaw,despues,1277,hand,1,1,maki
 Swadesh-1952-200,quechua,qullaw,despues,1211,he,1,1,pay
 Swadesh-1952-200,quechua,qullaw,despues,1256,head,1,1,uma
-Swadesh-1952-200,quechua,qullaw,despues,1408,to hear,1,5,kasuy | uyarii | uyariy
-Swadesh-1952-200,quechua,qullaw,despues,1223,heart,1,2,songo | sunqu
+Swadesh-1952-200,quechua,qullaw,despues,1408,to hear,1,4,kasuy | uyariy | uyay
+Swadesh-1952-200,quechua,qullaw,despues,1223,heart,1,1,sunqu
 Swadesh-1952-200,quechua,qullaw,despues,1210,heavy,1,1,llasaq
 Swadesh-1952-200,quechua,qullaw,despues,136,here,1,1,kaypi
 Swadesh-1952-200,quechua,qullaw,despues,1448,to hold (in hand),1,3,hat'alliy | hatalliy | q'imiy
 Swadesh-1952-200,quechua,qullaw,despues,1239,how,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,1200,husband,1,1,qusa
-Swadesh-1952-200,quechua,qullaw,despues,1209,I,1,2,-y | ñuqa
+Swadesh-1952-200,quechua,qullaw,despues,1209,I,1,1,ñuqa
 Swadesh-1952-200,quechua,qullaw,despues,617,ice,1,2,chhullunka | lasta
 Swadesh-1952-200,quechua,qullaw,despues,1459,if,1,1,ari
 Swadesh-1952-200,quechua,qullaw,despues,1460,in,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,1417,to kill,1,3,sipiy | wañuchiy | wañurqachiy
 Swadesh-1952-200,quechua,qullaw,despues,1410,to know (facts),1,2,riqsiy | yachay
-Swadesh-1952-200,quechua,qullaw,despues,624,lake,1,2,qocha | qucha
+Swadesh-1952-200,quechua,qullaw,despues,624,lake,1,1,qucha
 Swadesh-1952-200,quechua,qullaw,despues,628,leaf,1,2,llaqhi | raphi
 Swadesh-1952-200,quechua,qullaw,despues,244,left (hand),0,0,
 Swadesh-1952-200,quechua,qullaw,despues,1297,leg,1,1,chanka
@@ -3247,26 +3247,26 @@ Swadesh-1952-200,quechua,qullaw,despues,1422,to live,1,1,yachaysapa
 Swadesh-1952-200,quechua,qullaw,despues,1224,liver,1,4,chilla | kipchan | kukupin
 Swadesh-1952-200,quechua,qullaw,despues,1203,long,1,2,karu kay | suni
 Swadesh-1952-200,quechua,qullaw,despues,1392,louse,1,2,itha | usa
-Swadesh-1952-200,quechua,qullaw,despues,2106,man (male human),1,2,gari | qhari
+Swadesh-1952-200,quechua,qullaw,despues,2106,man (male human),1,1,qhari
 Swadesh-1952-200,quechua,qullaw,despues,1198,many,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,2615,meat (flesh),1,1,aycha
 Swadesh-1952-200,quechua,qullaw,despues,1216,mother,1,1,mama
-Swadesh-1952-200,quechua,qullaw,despues,639,mountain,1,4,hirka | orgo | pikchu
+Swadesh-1952-200,quechua,qullaw,despues,639,mountain,1,3,hirka | pikchu | urqu
 Swadesh-1952-200,quechua,qullaw,despues,674,mouth,1,2,shimi | simi
 Swadesh-1952-200,quechua,qullaw,despues,1405,name,1,3,huti | suti | sutirimana
 Swadesh-1952-200,quechua,qullaw,despues,1267,narrow,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,1942,near,1,2,kaylla | pirqa
 Swadesh-1952-200,quechua,qullaw,despues,1333,neck,1,2,kunka | kurku
-Swadesh-1952-200,quechua,qullaw,despues,1231,new,1,2,musog | musuq
-Swadesh-1952-200,quechua,qullaw,despues,1233,night,1,3,ch'isi | pagas | tuta
-Swadesh-1952-200,quechua,qullaw,despues,1221,nose,1,3,singa | sinq'a | sinqa
+Swadesh-1952-200,quechua,qullaw,despues,1231,new,1,1,musuq
+Swadesh-1952-200,quechua,qullaw,despues,1233,night,1,2,ch'isi | tuta
+Swadesh-1952-200,quechua,qullaw,despues,1221,nose,1,2,sinq'a | sinqa
 Swadesh-1952-200,quechua,qullaw,despues,1240,not,1,3,ama | ch'aqcha | mana
 Swadesh-1952-200,quechua,qullaw,despues,1229,old,1,5,aukin | awki | machu
-Swadesh-1952-200,quechua,qullaw,despues,1493,one,1,3,huk | huq | juk
+Swadesh-1952-200,quechua,qullaw,despues,1493,one,1,2,huk | huq
 Swadesh-1952-200,quechua,qullaw,despues,197,other,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,683,person,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,1455,to pull,1,6,aysachiy | aysay | aysaykachay
-Swadesh-1952-200,quechua,qullaw,despues,1452,to push,1,4,ch'unkuy | k'umpay | tangai
+Swadesh-1952-200,quechua,qullaw,despues,1452,to push,1,3,ch'unkuy | k'umpay | tanqay
 Swadesh-1952-200,quechua,qullaw,despues,156,red,1,1,puka
 Swadesh-1952-200,quechua,qullaw,despues,1725,right (correct),1,1,chanin
 Swadesh-1952-200,quechua,qullaw,despues,1019,right (hand),1,2,kamachiy | paña
@@ -3277,38 +3277,38 @@ Swadesh-1952-200,quechua,qullaw,despues,1728,rotten (especially log),1,1,ismu
 Swadesh-1952-200,quechua,qullaw,despues,1449,to rub,1,4,khituy | qhaquy | qhituy
 Swadesh-1952-200,quechua,qullaw,despues,1274,salt,1,1,kachi
 Swadesh-1952-200,quechua,qullaw,despues,671,sand,1,2,aqu | t'iyu
-Swadesh-1952-200,quechua,qullaw,despues,1458,say,1,3,nii | niy | ñiy
+Swadesh-1952-200,quechua,qullaw,despues,1458,say,1,2,niy | ñiy
 Swadesh-1952-200,quechua,qullaw,despues,1474,sea (ocean),1,3,hatun qucha | mama qhucha | mama qucha
 Swadesh-1952-200,quechua,qullaw,despues,1409,see,1,2,rikay | rikuy
 Swadesh-1952-200,quechua,qullaw,despues,714,seed,1,1,muhu
 Swadesh-1952-200,quechua,qullaw,despues,1457,to sew,1,3,hirai | sirai | siray
 Swadesh-1952-200,quechua,qullaw,despues,1396,sharp (as knife),1,1,q'acha
 Swadesh-1952-200,quechua,qullaw,despues,1645,short,0,0,
-Swadesh-1952-200,quechua,qullaw,despues,1261,to sing,1,6,asnai | asnay | asyai
+Swadesh-1952-200,quechua,qullaw,despues,1261,to sing,1,5,asnai | asnay | asyai
 Swadesh-1952-200,quechua,qullaw,despues,1416,sit,0,0,
-Swadesh-1952-200,quechua,qullaw,despues,2613,skin (person's),1,3,gala | gara | qara
+Swadesh-1952-200,quechua,qullaw,despues,2613,skin (person's),1,1,qara
 Swadesh-1952-200,quechua,qullaw,despues,1732,sky,1,1,hanaq pacha
 Swadesh-1952-200,quechua,qullaw,despues,1585,sleep,1,2,puñui | puñuy
-Swadesh-1952-200,quechua,qullaw,despues,1246,small,1,7,as | ichik | juch'uy
+Swadesh-1952-200,quechua,qullaw,despues,1246,small,1,6,as | ichik | pisi
 Swadesh-1952-200,quechua,qullaw,despues,1586,to smell (perceive odor),1,2,mutkhiy | q'apay
-Swadesh-1952-200,quechua,qullaw,despues,778,smoke (of fire),1,2,q'osñe | wapsi
+Swadesh-1952-200,quechua,qullaw,despues,778,smoke (of fire),1,1,wapsi
 Swadesh-1952-200,quechua,qullaw,despues,1234,smooth,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,730,snake,1,4,amaru | katari | mach'aqway
 Swadesh-1952-200,quechua,qullaw,despues,784,snow,1,2,rahu | rit'i
 Swadesh-1952-200,quechua,qullaw,despues,1437,to split,1,3,ch'iqtay | laray | puchqay
 Swadesh-1952-200,quechua,qullaw,despues,1414,to squeeze,1,2,nuq'ay | wankiy
 Swadesh-1952-200,quechua,qullaw,despues,1442,to stand,0,0,
-Swadesh-1952-200,quechua,qullaw,despues,1430,star,1,3,chaska | goillur | quyllur
+Swadesh-1952-200,quechua,qullaw,despues,1430,star,1,2,chaska | quyllur
 Swadesh-1952-200,quechua,qullaw,despues,1295,stick (of wood),0,0,
 Swadesh-1952-200,quechua,qullaw,despues,857,stone,1,1,rumi
 Swadesh-1952-200,quechua,qullaw,despues,1404,straight,1,4,chiqan | kamachiy | paña
-Swadesh-1952-200,quechua,qullaw,despues,1421,to suck,1,3,ch'unqay | chuchuy | sogoi
+Swadesh-1952-200,quechua,qullaw,despues,1421,to suck,1,2,ch'unqay | chuchuy
 Swadesh-1952-200,quechua,qullaw,despues,1343,sun,1,1,inti
 Swadesh-1952-200,quechua,qullaw,despues,1573,to swell,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,1439,to swim,1,4,wallatay | wamp'uy | wampuy
 Swadesh-1952-200,quechua,qullaw,despues,1220,tail,1,1,k'aschina
 Swadesh-1952-200,quechua,qullaw,despues,78,that,1,3,chahay | chay | haqay
-Swadesh-1952-200,quechua,qullaw,despues,1937,there,1,3,chaypi | haqaypi | jaqayman
+Swadesh-1952-200,quechua,qullaw,despues,1937,there,1,2,chaypi | haqaypi
 Swadesh-1952-200,quechua,qullaw,despues,817,they,1,1,paykuna
 Swadesh-1952-200,quechua,qullaw,despues,1244,thick,1,1,wira
 Swadesh-1952-200,quechua,qullaw,despues,2308,thin,0,0,
@@ -3318,7 +3318,7 @@ Swadesh-1952-200,quechua,qullaw,despues,1215,thou,1,1,qam
 Swadesh-1952-200,quechua,qullaw,despues,492,three,1,2,kimsa | kinsa
 Swadesh-1952-200,quechua,qullaw,despues,1456,to throw,1,4,aquy | hich'ay | lluqsichiy
 Swadesh-1952-200,quechua,qullaw,despues,1917,to tie,1,2,watai | watay
-Swadesh-1952-200,quechua,qullaw,despues,1205,tongue,1,6,gallu | qallu | qhallu
+Swadesh-1952-200,quechua,qullaw,despues,1205,tongue,1,5,qallu | qhallu | rimay
 Swadesh-1952-200,quechua,qullaw,despues,1380,tooth (front rather than molar),1,2,kilu | kiru
 Swadesh-1952-200,quechua,qullaw,despues,906,tree,1,2,mallki | sach'a
 Swadesh-1952-200,quechua,qullaw,despues,1498,two,1,2,iskai | iskay
@@ -3327,7 +3327,7 @@ Swadesh-1952-200,quechua,qullaw,despues,1443,to walk,1,2,purina | riy
 Swadesh-1952-200,quechua,qullaw,despues,1453,to wash,1,3,maqchiy | mayllay | t'aqsay
 Swadesh-1952-200,quechua,qullaw,despues,948,water,1,2,unu | yaku
 Swadesh-1952-200,quechua,qullaw,despues,1212,we,1,2,ñuqanchik | ñuqayku
-Swadesh-1952-200,quechua,qullaw,despues,1726,wet,1,1,juq'u
+Swadesh-1952-200,quechua,qullaw,despues,1726,wet,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,1236,what?,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,1238,when?,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,1237,where?,1,2,may | maypi
@@ -3337,12 +3337,12 @@ Swadesh-1952-200,quechua,qullaw,despues,1243,wide,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,1199,wife,0,0,
 Swadesh-1952-200,quechua,qullaw,despues,960,wind,1,2,waira | wayra
 Swadesh-1952-200,quechua,qullaw,despues,1257,wing,1,1,raphara
-Swadesh-1952-200,quechua,qullaw,despues,1340,with (accompanying),1,1,-yuq
+Swadesh-1952-200,quechua,qullaw,despues,1340,with (accompanying),0,0,
 Swadesh-1952-200,quechua,qullaw,despues,962,woman,1,1,warmi
 Swadesh-1952-200,quechua,qullaw,despues,1219,worm,1,1,kuru
 Swadesh-1952-200,quechua,qullaw,despues,1213,ye,1,1,qamkuna
 Swadesh-1952-200,quechua,qullaw,despues,1226,year,1,1,wata
-Swadesh-1952-200,quechua,qullaw,despues,1424,yellow,1,3,gillu | q'illu | qillu
+Swadesh-1952-200,quechua,qullaw,despues,1424,yellow,1,2,q'illu | qillu
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,98,all (of a number),1,3,llapa | llapan | tukuy
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,619,animal,1,1,uywa
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,646,ashes,1,2,uchpa | uspha
@@ -3366,7 +3366,7 @@ Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1225,day (oppos
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1494,to die,1,1,wañuy
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1418,to dig,1,3,allay | haratay | thamiykuy
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1230,dirty,1,3,ch'ichi | mapa | saqra
-Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,2009,dog,1,3,alkho | allqu | alqo
+Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,2009,dog,1,1,allqu
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1401,to drink,1,4,machay | suq'uy | uphyay
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1398,dry (substance),1,1,ch'aki
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,379,dull (knife),0,0,
@@ -3395,7 +3395,7 @@ Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1500,four,1,1,t
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1431,to freeze,1,2,chiriy | qasay
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1447,to give,1,2,churay | quy
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1035,good,1,2,allin | sumaq
-Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,606,grass,1,3,q'achu | qora | qura
+Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,606,grass,1,2,q'achu | qura
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1425,green,1,2,q'umir | waylla
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1040,hair,1,1,chukcha
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1277,hand,1,1,maki
@@ -3414,7 +3414,7 @@ Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1459,if,1,1,ari
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1460,in,0,0,
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1417,to kill,1,2,sipiy | wañuchiy
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1410,to know (facts),1,2,riqsiy | yachay
-Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,624,lake,1,2,qocha | qucha
+Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,624,lake,1,1,qucha
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,628,leaf,1,2,llaqhi | raphi
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,244,left (hand),0,0,
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1297,leg,1,1,chanka
@@ -3465,9 +3465,9 @@ Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1416,sit,0,0,
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,2613,skin (person's),1,1,qara
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1732,sky,1,1,hanaq pacha
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1585,sleep,1,1,puñuy
-Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1246,small,1,5,as | juch'uy | pisi
+Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1246,small,1,4,as | pisi | taksa
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1586,to smell (perceive odor),1,2,mutkhiy | q'apay
-Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,778,smoke (of fire),1,2,q'osñe | wapsi
+Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,778,smoke (of fire),1,1,wapsi
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1234,smooth,0,0,
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,730,snake,1,3,amaru | mach'aqway | machaqway
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,784,snow,1,1,rit'i
@@ -3494,7 +3494,7 @@ Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1215,thou,1,1,q
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,492,three,1,2,kimsa | kinsa
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1456,to throw,1,2,hich'ay | wikch'uy
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1917,to tie,1,1,watay
-Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1205,tongue,1,5,gallu | qallu | qhallu
+Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1205,tongue,1,4,qallu | qhallu | rimay
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1380,tooth (front rather than molar),1,1,kiru
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,906,tree,1,2,mallki | sach'a
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1498,two,1,1,iskay
@@ -3503,7 +3503,7 @@ Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1443,to walk,1,
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1453,to wash,1,2,maqchiy | t'aqsay
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,948,water,1,2,unu | yaku
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1212,we,1,2,ñuqanchik | ñuqayku
-Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1726,wet,1,1,juq'u
+Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1726,wet,0,0,
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1236,what?,0,0,
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1238,when?,0,0,
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1237,where?,1,2,may | maypi
@@ -3513,7 +3513,7 @@ Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1243,wide,0,0,
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1199,wife,0,0,
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,960,wind,1,1,wayra
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1257,wing,1,1,raphara
-Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1340,with (accompanying),1,1,-yuq
+Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1340,with (accompanying),0,0,
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,962,woman,1,1,warmi
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1219,worm,1,1,kuru
 Swadesh-1952-200,quechua,qullaw,despues_sin_comun_no_atestiguado,1213,ye,1,1,qamkuna
@@ -3875,32 +3875,32 @@ Swadesh-1952-200,quechua,chanka,despues,98,all (of a number),1,3,llapa | llapan 
 Swadesh-1952-200,quechua,chanka,despues,619,animal,1,1,uywa
 Swadesh-1952-200,quechua,chanka,despues,646,ashes,1,1,uchpa
 Swadesh-1952-200,quechua,chanka,despues,1461,at,0,0,
-Swadesh-1952-200,quechua,chanka,despues,1291,back (person's),1,2,wagta | wasa
+Swadesh-1952-200,quechua,chanka,despues,1291,back (person's),1,1,wasa
 Swadesh-1952-200,quechua,chanka,despues,1292,bad (deleterious or unsuitable),1,2,mana allin | millay
 Swadesh-1952-200,quechua,chanka,despues,1204,bark,0,0,
 Swadesh-1952-200,quechua,chanka,despues,1251,belly,1,3,kisma | pata | wiksa
 Swadesh-1952-200,quechua,chanka,despues,1202,big,1,1,hatun
-Swadesh-1952-200,quechua,chanka,despues,937,bird,1,2,pisgo | pisqu
-Swadesh-1952-200,quechua,chanka,despues,1403,to bite,1,3,achaqay | kanii | kaniy
+Swadesh-1952-200,quechua,chanka,despues,937,bird,1,1,pisqu
+Swadesh-1952-200,quechua,chanka,despues,1403,to bite,1,2,achaqay | kaniy
 Swadesh-1952-200,quechua,chanka,despues,163,black,1,1,yana
 Swadesh-1952-200,quechua,chanka,despues,946,blood,1,1,yawar
 Swadesh-1952-200,quechua,chanka,despues,175,to blow (of wind),1,1,wayray
 Swadesh-1952-200,quechua,chanka,despues,1394,bone,1,1,tullu
 Swadesh-1952-200,quechua,chanka,despues,1304,child (young person rather than as relationship term),1,2,irqi | wamra
 Swadesh-1952-200,quechua,chanka,despues,1489,cloud,1,1,puyu
-Swadesh-1952-200,quechua,chanka,despues,1446,to come,1,3,hamui | hamuy | jamuy
+Swadesh-1952-200,quechua,chanka,despues,1446,to come,1,2,hamui | hamuy
 Swadesh-1952-200,quechua,chanka,despues,1432,to cut,1,2,kuchurapuy | kuchuy
-Swadesh-1952-200,quechua,chanka,despues,1225,day (opposite of night rather than time measure),1,1,hunag
+Swadesh-1952-200,quechua,chanka,despues,1225,day (opposite of night rather than time measure),0,0,
 Swadesh-1952-200,quechua,chanka,despues,1494,to die,1,1,wañuy
 Swadesh-1952-200,quechua,chanka,despues,1418,to dig,1,1,lampay
-Swadesh-1952-200,quechua,chanka,despues,1230,dirty,1,2,ganra | mapa
-Swadesh-1952-200,quechua,chanka,despues,2009,dog,1,2,allgo | allqu
+Swadesh-1952-200,quechua,chanka,despues,1230,dirty,1,1,mapa
+Swadesh-1952-200,quechua,chanka,despues,2009,dog,1,1,allqu
 Swadesh-1952-200,quechua,chanka,despues,1401,to drink,1,2,machay | upyay
 Swadesh-1952-200,quechua,chanka,despues,1398,dry (substance),0,0,
 Swadesh-1952-200,quechua,chanka,despues,379,dull (knife),0,0,
 Swadesh-1952-200,quechua,chanka,despues,2,dust,1,1,allpa
 Swadesh-1952-200,quechua,chanka,despues,1247,ear,1,1,rinri
-Swadesh-1952-200,quechua,chanka,despues,1228,earth (soil),1,2,allpa | paza
+Swadesh-1952-200,quechua,chanka,despues,1228,earth (soil),1,1,allpa
 Swadesh-1952-200,quechua,chanka,despues,1336,to eat,1,1,mikui
 Swadesh-1952-200,quechua,chanka,despues,744,egg,1,1,runtu
 Swadesh-1952-200,quechua,chanka,despues,1248,eye,1,1,ñawi
@@ -3908,41 +3908,41 @@ Swadesh-1952-200,quechua,chanka,despues,1280,to fall (drop rather than topple),1
 Swadesh-1952-200,quechua,chanka,despues,1406,far,1,1,karu
 Swadesh-1952-200,quechua,chanka,despues,323,fat (organic substance),1,1,wira
 Swadesh-1952-200,quechua,chanka,despues,1217,father,1,1,tayta
-Swadesh-1952-200,quechua,chanka,despues,1419,to fear,1,4,manchachikuy | manchay | manzai
+Swadesh-1952-200,quechua,chanka,despues,1419,to fear,1,3,manchachikuy | manchay | may
 Swadesh-1952-200,quechua,chanka,despues,1201,feather (larger feathers rather than down),1,2,patpa | qillqana
 Swadesh-1952-200,quechua,chanka,despues,1242,few,0,0,
 Swadesh-1952-200,quechua,chanka,despues,221,fire,1,2,nina | wila
 Swadesh-1952-200,quechua,chanka,despues,227,fish,1,1,challwa
-Swadesh-1952-200,quechua,chanka,despues,493,five,1,2,pichka | pizga
+Swadesh-1952-200,quechua,chanka,despues,493,five,1,1,pichka
 Swadesh-1952-200,quechua,chanka,despues,2003,to flow,0,0,
 Swadesh-1952-200,quechua,chanka,despues,239,flower,1,3,tuktu | waita | wayta
-Swadesh-1952-200,quechua,chanka,despues,1441,to fly,1,2,paarii | pawai
+Swadesh-1952-200,quechua,chanka,despues,1441,to fly,1,1,pawai
 Swadesh-1952-200,quechua,chanka,despues,249,fog,0,0,
 Swadesh-1952-200,quechua,chanka,despues,1301,foot,1,1,chaki
 Swadesh-1952-200,quechua,chanka,despues,1500,four,1,1,tawa
 Swadesh-1952-200,quechua,chanka,despues,1431,to freeze,1,1,chiriy
-Swadesh-1952-200,quechua,chanka,despues,1447,to give,1,2,churay | goi
+Swadesh-1952-200,quechua,chanka,despues,1447,to give,1,1,churay
 Swadesh-1952-200,quechua,chanka,despues,1035,good,1,3,alli | allin | sumaq
-Swadesh-1952-200,quechua,chanka,despues,606,grass,1,2,qora | qura
+Swadesh-1952-200,quechua,chanka,despues,606,grass,1,1,qura
 Swadesh-1952-200,quechua,chanka,despues,1425,green,0,0,
-Swadesh-1952-200,quechua,chanka,despues,1040,hair,1,2,agza | chukcha
+Swadesh-1952-200,quechua,chanka,despues,1040,hair,1,1,chukcha
 Swadesh-1952-200,quechua,chanka,despues,1277,hand,1,1,maki
 Swadesh-1952-200,quechua,chanka,despues,1211,he,1,1,pay
 Swadesh-1952-200,quechua,chanka,despues,1256,head,1,1,uma
-Swadesh-1952-200,quechua,chanka,despues,1408,to hear,1,4,uyarii | uyariy | uyay
-Swadesh-1952-200,quechua,chanka,despues,1223,heart,1,2,songo | sunqu
+Swadesh-1952-200,quechua,chanka,despues,1408,to hear,1,3,uyariy | uyay | wiyai
+Swadesh-1952-200,quechua,chanka,despues,1223,heart,1,1,sunqu
 Swadesh-1952-200,quechua,chanka,despues,1210,heavy,1,1,llasaq
 Swadesh-1952-200,quechua,chanka,despues,136,here,1,1,kaypi
 Swadesh-1952-200,quechua,chanka,despues,1448,to hold (in hand),1,1,hatalliy
 Swadesh-1952-200,quechua,chanka,despues,1239,how,0,0,
 Swadesh-1952-200,quechua,chanka,despues,1200,husband,0,0,
-Swadesh-1952-200,quechua,chanka,despues,1209,I,1,2,-y | ñuqa
+Swadesh-1952-200,quechua,chanka,despues,1209,I,1,1,ñuqa
 Swadesh-1952-200,quechua,chanka,despues,617,ice,1,2,chullunku | lasta
 Swadesh-1952-200,quechua,chanka,despues,1459,if,1,1,ari
 Swadesh-1952-200,quechua,chanka,despues,1460,in,0,0,
 Swadesh-1952-200,quechua,chanka,despues,1417,to kill,1,2,wañuchiy | wañurqachiy
 Swadesh-1952-200,quechua,chanka,despues,1410,to know (facts),1,2,riqsiy | yachay
-Swadesh-1952-200,quechua,chanka,despues,624,lake,1,2,qocha | qucha
+Swadesh-1952-200,quechua,chanka,despues,624,lake,1,1,qucha
 Swadesh-1952-200,quechua,chanka,despues,628,leaf,0,0,
 Swadesh-1952-200,quechua,chanka,despues,244,left (hand),0,0,
 Swadesh-1952-200,quechua,chanka,despues,1297,leg,1,1,chanka
@@ -3951,26 +3951,26 @@ Swadesh-1952-200,quechua,chanka,despues,1422,to live,0,0,
 Swadesh-1952-200,quechua,chanka,despues,1224,liver,1,1,ñatin
 Swadesh-1952-200,quechua,chanka,despues,1203,long,1,1,karu kay
 Swadesh-1952-200,quechua,chanka,despues,1392,louse,1,1,usa
-Swadesh-1952-200,quechua,chanka,despues,2106,man (male human),1,1,gari
+Swadesh-1952-200,quechua,chanka,despues,2106,man (male human),0,0,
 Swadesh-1952-200,quechua,chanka,despues,1198,many,0,0,
 Swadesh-1952-200,quechua,chanka,despues,2615,meat (flesh),1,1,aycha
 Swadesh-1952-200,quechua,chanka,despues,1216,mother,1,1,mama
-Swadesh-1952-200,quechua,chanka,despues,639,mountain,1,3,hirka | orgo | urqu
+Swadesh-1952-200,quechua,chanka,despues,639,mountain,1,2,hirka | urqu
 Swadesh-1952-200,quechua,chanka,despues,674,mouth,1,2,shimi | simi
 Swadesh-1952-200,quechua,chanka,despues,1405,name,1,3,huti | suti | sutirimana
 Swadesh-1952-200,quechua,chanka,despues,1267,narrow,0,0,
 Swadesh-1952-200,quechua,chanka,despues,1942,near,1,2,kaylla | pirqa
 Swadesh-1952-200,quechua,chanka,despues,1333,neck,1,2,kunka | kurku
-Swadesh-1952-200,quechua,chanka,despues,1231,new,1,2,musog | musuq
-Swadesh-1952-200,quechua,chanka,despues,1233,night,1,2,pagas | tuta
-Swadesh-1952-200,quechua,chanka,despues,1221,nose,1,2,singa | sinqa
+Swadesh-1952-200,quechua,chanka,despues,1231,new,1,1,musuq
+Swadesh-1952-200,quechua,chanka,despues,1233,night,1,1,tuta
+Swadesh-1952-200,quechua,chanka,despues,1221,nose,1,1,sinqa
 Swadesh-1952-200,quechua,chanka,despues,1240,not,1,2,ama | mana
 Swadesh-1952-200,quechua,chanka,despues,1229,old,1,4,aukin | awki | machu
-Swadesh-1952-200,quechua,chanka,despues,1493,one,1,3,huk | huq | juk
+Swadesh-1952-200,quechua,chanka,despues,1493,one,1,2,huk | huq
 Swadesh-1952-200,quechua,chanka,despues,197,other,0,0,
 Swadesh-1952-200,quechua,chanka,despues,683,person,0,0,
 Swadesh-1952-200,quechua,chanka,despues,1455,to pull,1,1,aysaykachay
-Swadesh-1952-200,quechua,chanka,despues,1452,to push,1,2,tangai | tanqay
+Swadesh-1952-200,quechua,chanka,despues,1452,to push,1,1,tanqay
 Swadesh-1952-200,quechua,chanka,despues,156,red,1,1,puka
 Swadesh-1952-200,quechua,chanka,despues,1725,right (correct),1,1,chanin
 Swadesh-1952-200,quechua,chanka,despues,1019,right (hand),1,2,kamachiy | paña
@@ -3981,16 +3981,16 @@ Swadesh-1952-200,quechua,chanka,despues,1728,rotten (especially log),1,1,ismu
 Swadesh-1952-200,quechua,chanka,despues,1449,to rub,0,0,
 Swadesh-1952-200,quechua,chanka,despues,1274,salt,1,1,kachi
 Swadesh-1952-200,quechua,chanka,despues,671,sand,1,2,aqu | tiyu
-Swadesh-1952-200,quechua,chanka,despues,1458,say,1,2,nii | niy
+Swadesh-1952-200,quechua,chanka,despues,1458,say,1,1,niy
 Swadesh-1952-200,quechua,chanka,despues,1474,sea (ocean),1,1,mama qucha
 Swadesh-1952-200,quechua,chanka,despues,1409,see,1,2,rikay | rikuy
 Swadesh-1952-200,quechua,chanka,despues,714,seed,0,0,
 Swadesh-1952-200,quechua,chanka,despues,1457,to sew,1,3,hirai | sirai | siray
 Swadesh-1952-200,quechua,chanka,despues,1396,sharp (as knife),0,0,
 Swadesh-1952-200,quechua,chanka,despues,1645,short,0,0,
-Swadesh-1952-200,quechua,chanka,despues,1261,to sing,1,5,asnai | asyai | hunyay
+Swadesh-1952-200,quechua,chanka,despues,1261,to sing,1,4,asnai | asyai | hunyay
 Swadesh-1952-200,quechua,chanka,despues,1416,sit,0,0,
-Swadesh-1952-200,quechua,chanka,despues,2613,skin (person's),1,3,gala | gara | qara
+Swadesh-1952-200,quechua,chanka,despues,2613,skin (person's),1,1,qara
 Swadesh-1952-200,quechua,chanka,despues,1732,sky,0,0,
 Swadesh-1952-200,quechua,chanka,despues,1585,sleep,1,2,puñui | puñuy
 Swadesh-1952-200,quechua,chanka,despues,1246,small,1,7,as | aslla | ichik
@@ -4002,17 +4002,17 @@ Swadesh-1952-200,quechua,chanka,despues,784,snow,1,2,rahu | riti
 Swadesh-1952-200,quechua,chanka,despues,1437,to split,1,2,laray | puchqay
 Swadesh-1952-200,quechua,chanka,despues,1414,to squeeze,1,1,wankiy
 Swadesh-1952-200,quechua,chanka,despues,1442,to stand,0,0,
-Swadesh-1952-200,quechua,chanka,despues,1430,star,1,3,chaska | goillur | quyllur
+Swadesh-1952-200,quechua,chanka,despues,1430,star,1,2,chaska | quyllur
 Swadesh-1952-200,quechua,chanka,despues,1295,stick (of wood),0,0,
 Swadesh-1952-200,quechua,chanka,despues,857,stone,1,1,rumi
 Swadesh-1952-200,quechua,chanka,despues,1404,straight,1,4,chiqan | kamachiy | paña
-Swadesh-1952-200,quechua,chanka,despues,1421,to suck,1,2,chuchuy | sogoi
+Swadesh-1952-200,quechua,chanka,despues,1421,to suck,1,1,chuchuy
 Swadesh-1952-200,quechua,chanka,despues,1343,sun,1,1,inti
 Swadesh-1952-200,quechua,chanka,despues,1573,to swell,0,0,
 Swadesh-1952-200,quechua,chanka,despues,1439,to swim,1,1,wampuy
 Swadesh-1952-200,quechua,chanka,despues,1220,tail,0,0,
 Swadesh-1952-200,quechua,chanka,despues,78,that,1,2,chay | haqay
-Swadesh-1952-200,quechua,chanka,despues,1937,there,1,3,chaypi | haqaypi | jaqayman
+Swadesh-1952-200,quechua,chanka,despues,1937,there,1,2,chaypi | haqaypi
 Swadesh-1952-200,quechua,chanka,despues,817,they,1,1,paykuna
 Swadesh-1952-200,quechua,chanka,despues,1244,thick,1,1,wira
 Swadesh-1952-200,quechua,chanka,despues,2308,thin,0,0,
@@ -4046,7 +4046,7 @@ Swadesh-1952-200,quechua,chanka,despues,962,woman,1,1,warmi
 Swadesh-1952-200,quechua,chanka,despues,1219,worm,1,1,kuru
 Swadesh-1952-200,quechua,chanka,despues,1213,ye,1,1,qamkuna
 Swadesh-1952-200,quechua,chanka,despues,1226,year,1,1,wata
-Swadesh-1952-200,quechua,chanka,despues,1424,yellow,1,2,gillu | qillu
+Swadesh-1952-200,quechua,chanka,despues,1424,yellow,1,1,qillu
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,98,all (of a number),1,3,llapa | llapan | tukuy
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,619,animal,1,1,uywa
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,646,ashes,1,1,uchpa
@@ -4099,7 +4099,7 @@ Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,1500,four,1,1,t
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,1431,to freeze,1,1,chiriy
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,1447,to give,1,1,churay
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,1035,good,1,3,alli | allin | sumaq
-Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,606,grass,1,2,qora | qura
+Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,606,grass,1,1,qura
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,1425,green,0,0,
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,1040,hair,1,1,chukcha
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,1277,hand,1,1,maki
@@ -4118,7 +4118,7 @@ Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,1459,if,1,1,ari
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,1460,in,0,0,
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,1417,to kill,1,1,wañuchiy
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,1410,to know (facts),1,2,riqsiy | yachay
-Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,624,lake,1,2,qocha | qucha
+Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,624,lake,1,1,qucha
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,628,leaf,0,0,
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,244,left (hand),0,0,
 Swadesh-1952-200,quechua,chanka,despues_sin_comun_no_atestiguado,1297,leg,1,1,chanka
@@ -4642,7 +4642,7 @@ Swadesh-1952-200,aimara,sur,despues,1239,how,1,1,kumasa
 Swadesh-1952-200,aimara,sur,despues,1200,husband,1,1,chacha
 Swadesh-1952-200,aimara,sur,despues,1209,I,1,1,naya
 Swadesh-1952-200,aimara,sur,despues,617,ice,1,2,chhullunkhaya | chhullunkhiya
-Swadesh-1952-200,aimara,sur,despues,1459,if,1,1,jiisa
+Swadesh-1952-200,aimara,sur,despues,1459,if,1,1,jïsa
 Swadesh-1952-200,aimara,sur,despues,1460,in,0,0,
 Swadesh-1952-200,aimara,sur,despues,1417,to kill,1,1,jiwayaña
 Swadesh-1952-200,aimara,sur,despues,1410,to know (facts),1,1,yatiña
@@ -5346,7 +5346,7 @@ Swadesh-1952-200,aimara,norte,despues,1239,how,1,1,kumasa
 Swadesh-1952-200,aimara,norte,despues,1200,husband,1,1,chacha
 Swadesh-1952-200,aimara,norte,despues,1209,I,1,1,naya
 Swadesh-1952-200,aimara,norte,despues,617,ice,1,2,chhullunkhaya | chhullunkhiya
-Swadesh-1952-200,aimara,norte,despues,1459,if,1,1,jiisa
+Swadesh-1952-200,aimara,norte,despues,1459,if,1,1,jïsa
 Swadesh-1952-200,aimara,norte,despues,1460,in,0,0,
 Swadesh-1952-200,aimara,norte,despues,1417,to kill,1,1,jiwayaña
 Swadesh-1952-200,aimara,norte,despues,1410,to know (facts),1,1,yatiña

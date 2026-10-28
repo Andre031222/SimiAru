@@ -97,16 +97,18 @@ def main():
     lex = lexico_actual()
     lex["apta"] = lex.apta.fillna(False).astype(bool)
     lex["clase"] = [clase(r) for r in lex.itertuples()]
-    q = lex[(lex.lengua == "quechua") & lex.apta]
+    lex["nucleo"] = lex.nucleo.fillna(False).astype(bool)
+    lex = lex.sort_values("id").drop_duplicates(subset=["lengua", "forma"])
+    q = lex[(lex.lengua == "quechua") & lex.nucleo]
     a = lex[lex.lengua == "aimara"]
-    a = a[a.variedad.isin(["norte", "sur"]) | a.apta]
+    a = a[a.variedad.isin(["norte", "sur"]) | a.nucleo]
     n_extremos = int(a.variedad.isin(["norte", "sur"]).sum())
     resto = 100 - n_extremos
     mq = muestrear(q, {"qullaw": 50, "chanka": 50, "comun-ambas": 50, "comun-neutra": 50}, rng)
     ma = muestrear(a, {"norte": None, "sur": None, "comun-ambas": resto // 2, "comun-sin_atestiguar": resto - resto // 2}, rng)
     REVISION.mkdir(parents=True, exist_ok=True)
     claves = []
-    for lengua, m, prefijo, nombre in (("quechua", mq, "Q", "hoja-quechua.xlsx"), ("aimara", ma, "A", "hoja-aimara.xlsx")):
+    for lengua, m, prefijo, nombre in (("quechua", mq, "QN", "hoja-quechua.xlsx"), ("aimara", ma, "AN", "hoja-aimara.xlsx")):
         m = m.sample(frac=1, random_state=SEMILLA).reset_index(drop=True)
         m["codigo"] = [f"{prefijo}{i + 1:03d}" for i in range(len(m))]
         hoja(m, lengua, REVISION / nombre)

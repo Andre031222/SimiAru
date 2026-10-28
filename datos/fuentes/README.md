@@ -70,3 +70,11 @@ uv run datos/scripts/07_cargar_postgres.py
 ```
 
 `01_descargar_fuentes.py traducciones` descarga solo el extracto del Wiktionary en inglés: recorre en flujo el volcado de 534 MB y guarda unas 2 000 entradas. `03_audio_humano.py` necesita una base ya construida para saber qué formas buscar, y por eso `02_construir_base.py` se ejecuta dos veces. `05_exportar_cifras.py` escribe las cifras del artículo en la carpeta del paper, fuera de este repositorio.
+
+
+## Corpus de atestiguación
+
+| Recurso | Licencia | Uso |
+| --- | --- | --- |
+| Wikipedia en quechua y en aimara (volcados `quwiki` y `aywiki`, descargados el 28-10-2026 en `crudo/wikipedia/`) | CC BY-SA 4.0 | solo se cuentan apariciones de formas para el núcleo; no se publica texto |
+| `wordfreq` (frecuencia del español) | datos CC BY-SA 4.0, código Apache 2.0 | solo para filtrar glosas raras |
